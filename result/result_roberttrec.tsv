@@ -1,0 +1,486 @@
+predicted_labels	true_labels	lil_interpretations	gil_interpretations
+5	5	[('to As pen', -0.13015347719192505), ('from Denver', -0.3573680520057678), ('As pen', -0.39445167779922485)]	"['What is the brightest star visible from Earth ?', ""What was the sequel to The Moon 's Balloon ?""]"
+4	4	[('Modest o', -0.8075255304574966), ('Modest o , California', -0.8802707290742546)]	"['What is the brightest star visible from Earth ?', ""What 's the most popular contact lens color ?""]"
+3	3	[('Who was Galileo', -0.3194902539253235), ('was Galileo', -0.41434597969055176)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[('an atom', -0.7459900937974453), ('is an atom', -0.7849742965772748), ('What is an atom', -0.7930808680830523)]	['What is a heuristic ?', 'What is the function of RAM ?']
+5	5	[('a state', 0.00756382942199707)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+5	5	[('is the Sears Building', -0.012041151523590088), ('the Sears Building', -0.14872348308563232)]	['Define cosmology', 'What is the abbreviation for Original Equipment Manufacturer ?']
+3	3	[('baseball team', -0.40888118743896484), ('in which', -0.4951346218585968), ('in which baseball team', -0.5564700365066528), ('a small interest', -0.5966016054153442)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+1	1	[]	"['What explorers followed Columbus to the Americas ?', ""What characteristics contribute to its `` intelligence '' ?""]"
+2	2	[('turn orange', -0.8450167290866375)]	['What are bear and bull markets ?', 'What steps can be taken to prevent diabetes ?']
+2	2	[('is autism', -0.8646192029118538), ('What is autism', -0.8994075749069452)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+4	4	[('in 1900', -0.7898706346750259), ('a world fair', -0.8415177650749683)]	"['What explorers followed Columbus to the Americas ?', ""What country 's royal house is Bourbon-Parma ?""]"
+3	3	"[('a dime', -0.22250130772590637), ('on a dime', -0.24594435095787048), (""' s"", -0.2750338912010193), ('is on a dime', -0.30023112893104553)]"	"['President Bush compared Saddam Hussein to whom ?', ""What characteristics contribute to its `` intelligence '' ?""]"
+5	5	[('of a Yellow Labrador', -0.05763447284698486), ('a Yellow Labrador', -0.19964814186096191)]	['What is the chemical composition of a Barbie ?', 'Define cosmology']
+3	3	[('across the Pacific Ocean', -0.2739027142524719), ('the Pacific Ocean', -0.3162612318992615)]	"['Who received the Will Rogers Award in 1989 ?', ""Who played the original Charlie 's Angels ?""]"
+5	5	[('a state', 0.0006853342056274414)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+5	5	[('for cr ickets', -0.25637829303741455), ('cr ickets', -0.47466203570365906)]	['What are values ?', 'What is the chemical composition of a Barbie ?']
+1	1	[('the highest melting point', -0.4931143522262573)]	"[""What characteristics contribute to its `` intelligence '' ?"", 'President Bush compared Saddam Hussein to whom ?']"
+3	3	[('against polio', -0.3898146152496338), ('the vaccination', -0.4493701756000519)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[('is epilepsy', -0.8600237295031548), ('What is epilepsy', -0.8966701328754425)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+5	5	[('did the Titanic sink', 0.054889678955078125), ('the Titanic', -0.21266067028045654)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+3	3	[('to walk in space', -0.22040504217147827), ('walk in space', -0.26767170429229736), ('in space', -0.36865144968032837)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[('a bi osphere', -0.8686110768467188), ('is a bi osphere', -0.8822555970400572)]	['What is a heuristic ?', 'What is object-oriented design ?']
+4	4	[('the US', -0.8187729120254517), ('Big M', -0.8349821828305721), ('in the US', -0.8672632165253162), ('the Big M uddy', -0.8818791590165347)]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+2	2	[('bipolar disorder', -0.8305792547762394), ('is bipolar disorder', -0.8742279205471277), ('What is bipolar disorder', -0.88613400910981)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+2	2	[('is cholesterol', -0.8481515236198902), ('What is cholesterol', -0.8799804914742708)]	['What are values ?', 'What is a heuristic ?']
+3	3	[('developed the Macintosh computer', -0.34942400455474854), ('the Macintosh computer', -0.38285863399505615)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[('is caffeine', -0.8652306422591209), ('What is caffeine', -0.8985990509390831)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+4	4	[('North and South', -0.7290390245616436)]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+4	4	[('John Wayne', -0.8619775548577309), ('John Wayne airport', -0.9139864798635244)]	"[""What 's the most popular contact lens color ?"", 'What river is Pocahontas buried along ?']"
+4	4	[('the Philippines', -0.8338363692164421), ('is the Philippines in', -0.903831192292273)]	"['What is the brightest star visible from Earth ?', ""What 's the most popular contact lens color ?""]"
+5	5	[('at the Kentucky Derby', -0.09004431962966919), ('the Kentucky Derby', -0.22573035955429077), ('of the horses', -0.244096577167511), ('the horses', -0.4451412260532379)]	['Define cosmology', 'Who wrote The Collector ?']
+4	4	[('the Rocky Mountains', -0.9152141828089952)]	"['What U.S. state is Mammoth Cave National Park in ?', ""What 's the most popular contact lens color ?""]"
+2	2	[('inver te brates', -0.7141932137310505)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+5	5	[('of the earth', -0.12316673994064331), ('the earth', -0.3118341565132141), ('the center', -0.32132065296173096)]	['What is the brightest star visible from Earth ?', 'When is the Sun closest to the Earth ?']
+5	5	[('get elected as President', -0.003952682018280029), ('elected as President', -0.1380009651184082), ('as President', -0.2527172863483429)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+5	5	[('when he died', -0.14729762077331543), ('Elvis Pres ley', -0.22488313913345337), ('he died', -0.3711262345314026)]	['What is the chemical composition of a Barbie ?', 'President Bush compared Saddam Hussein to whom ?']
+4	4	[('oco River', -0.8322127386927605), ('in oco River', -0.8722270391881466)]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+5	5	[('the service line', -0.1158837080001831), ('from the net', -0.17056453227996826), ('the net', -0.4116676449775696), ('in tennis', -0.4169066846370697)]	"[""What was the sequel to The Moon 's Balloon ?"", ""What was John Steinbeck 's travelling companion Charley ?""]"
+5	5	[('have per day', -0.07866168022155762), ('How much', -0.31012654304504395), ('per day', -0.3414040803909302)]	['What is the chemical composition of a Barbie ?', 'Who was the star of Leave It to Beaver ?']
+5	5	[('How many', -0.2969844937324524), ('are there', -0.305961549282074)]	['How many blacks served in the Vietnam War', 'What is the brightest star visible from Earth ?']
+1	1	[('made from what plant', -0.23693376779556274), ('from what plant', -0.32791656255722046), ('what plant', -0.42956265807151794), ('called linen', -0.432315856218338)]	"[""What characteristics contribute to its `` intelligence '' ?"", 'What explorers followed Columbus to the Americas ?']"
+2	2	[('T ef lon', -0.8853147011250257), ('is T ef lon', -0.8972108173184097)]	['What is DSL ?', 'What is object-oriented design ?']
+2	2	[('y line', -0.8265758939087391)]	['What is a heuristic ?', 'What is DSL ?']
+2	2	[('a shaman', -0.8397300057113171), ('is a shaman', -0.8805379075929523), ('What is a shaman', -0.890962541103363)]	['What did The Gas House Gang play ?', 'What is object-oriented design ?']
+1	1	[('a female wal rus', 0.18422722816467285)]	['What did The Gas House Gang play ?', 'Who is Dear Abby ?']
+2	1	[('tur keys', -0.5873958207666874), ('of tur keys', -0.6150478450581431)]	['What did The Gas House Gang play ?', 'What is a heuristic ?']
+5	5	[('Rip Van W', -0.2577440142631531), ('inkle sleep', -0.45834407210350037)]	['President Bush compared Saddam Hussein to whom ?', 'How many blacks served in the Vietnam War']
+2	2	[('triglycer ides', -0.6631374284625053), ('are triglycer ides', -0.7019979767501354), ('What are triglycer ides', -0.7096509527182207)]	['What are values ?', 'What is the chemical composition of a Barbie ?']
+5	5	[('in a gallon', -0.09380221366882324), ('How many', -0.3336849808692932), ('a gallon', -0.366671621799469)]	['What is the chemical composition of a Barbie ?', 'How many blacks served in the Vietnam War']
+3	3	[('San Francisco', -0.09281530976295471), ('in San Francisco', -0.13122370839118958), ('the chocolate company', -0.27087903022766113)]	"['What explorers followed Columbus to the Americas ?', ""What characteristics contribute to its `` intelligence '' ?""]"
+2	2	[('amphib ians', -0.7375929430127144), ('are amphib ians', -0.7827468635514379), ('What are amphib ians', -0.794499798445031)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+3	3	[('discovered x - rays', -0.20620304346084595), ('x - rays', -0.28166645765304565)]	"['President Bush compared Saddam Hussein to whom ?', ""Who played the original Charlie 's Angels ?""]"
+3	3	[('Can we talk', -0.2630707621574402)]	"[""Who played the original Charlie 's Angels ?"", 'What is your favorite color ?']"
+2	2	[('fib romy algia', -0.8738318290561438), ('is fib romy algia', -0.8868946675211191)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+2	2	[('worn or outdated', -0.7822888437658548)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+2	2	[('in engines', -0.822258323431015)]	['What are values ?', 'How many bytes are in a terabyte ?']
+5	5	[]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+4	4	[('of Yugoslavia', -0.7486998327076435), ('the capital', -0.7595411315560341)]	"['What is the brightest star visible from Earth ?', ""What 's the most popular contact lens color ?""]"
+4	4	[('is Milan', -0.8730748370289803), ('Where is Milan', -0.9266399145126343)]	"[""What 's the most popular contact lens color ?"", 'What is the brightest star visible from Earth ?']"
+5	5	[('humming birds fly', -0.13938802480697632), ('humming birds', -0.24701300263404846)]	['What is the chemical composition of a Barbie ?', 'What are values ?']
+4	4	[('the United States', -0.900989331305027), ('in the United States', -0.9179977965541184)]	['What U.S. state is Mammoth Cave National Park in ?', 'What is the brightest star visible from Earth ?']
+4	4	[('North Dakota', -0.6953388564288616), ('head , Minnesota', -0.7303879968822002)]	"['What river is Pocahontas buried along ?', ""What was John Steinbeck 's travelling companion Charley ?""]"
+2	1	[('do bats eat', -0.7135219946503639), ('What do bats eat', -0.7191309041809291)]	['What did The Gas House Gang play ?', 'What is object-oriented design ?']
+4	4	[('the Battle', -0.8441970124840736), ('take place in', -0.8816618015989661), ('B igh orn', -0.8856152081862092), ('of B igh orn', -0.8945694924332201)]	['Define cosmology', 'What U.S. state is Mammoth Cave National Park in ?']
+3	3	[('Who was Abraham Lincoln', -0.3148079514503479), ('was Abraham Lincoln', -0.35815829038619995), ('Abraham Lincoln', -0.4495495855808258)]	"['President Bush compared Saddam Hussein to whom ?', ""Who played the original Charlie 's Angels ?""]"
+2	2	[('spider veins', -0.7383422404527664), ('are spider veins', -0.7830102406442165), ('What are spider veins', -0.7939397448208183)]	['What is a heuristic ?', 'What are the different approaches of systems analysis ?']
+5	5	[('did John Lennon die', 0.030528008937835693), ('John Lennon', -0.254305899143219)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+4	4	[('from Asia', -0.7905308306217194), ('North America', -0.7930592074990273)]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+5	5	[('the population', -0.2983301877975464), ('of Seattle', -0.3589496612548828)]	['How many blacks served in the Vietnam War', 'What are values ?']
+5	5	[('for the Titanic', -0.06164616346359253), ('a ticket', -0.33125948905944824), ('the Titanic', -0.35331475734710693)]	['How many blacks served in the Vietnam War', 'Define cosmology']
+4	4	[('the world', -0.8130880445241928), ('in the world', -0.8681801147758961)]	"['What is the brightest star visible from Earth ?', ""What 's the most popular contact lens color ?""]"
+3	3	[('West Side Story', -0.24719810485839844), ('West Side', -0.3061739206314087), ('the music', -0.42545342445373535)]	"[""Who played the original Charlie 's Angels ?"", 'What did The Gas House Gang play ?']"
+4	4	[('the America', -0.8745430484414101), ('of the America', -0.9195258542895317)]	"[""What 's the most popular contact lens color ?"", 'What U.S. state is Mammoth Cave National Park in ?']"
+5	2	[('is the pH scale', 0.06350350379943848), ('the pH scale', -0.035472869873046875)]	['What are values ?', 'What is the chemical composition of a Barbie ?']
+1	1	[('is used in Australia', -0.29910409450531006), ('used in Australia', -0.396118700504303), ('What type', -0.4999959170818329), ('in Australia', -0.5190296471118927), ('of currency', -0.5336243808269501)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+5	5	[('the Gateway Arch', -0.08697617053985596), ('St . Louis', -0.22825849056243896)]	"[""What was the sequel to The Moon 's Balloon ?"", ""What was John Steinbeck 's travelling companion Charley ?""]"
+5	5	[]	['What is the chemical composition of a Barbie ?', 'Define cosmology']
+3	3	[('of Alaska', -0.4080265760421753)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[('a prism', -0.8050930947065353), ('is a prism', -0.8473079055547714), ('What is a prism', -0.8579367068596184)]	['What is DSL ?', 'What is object-oriented design ?']
+5	5	[]	"['President Bush compared Saddam Hussein to whom ?', ""Who played the original Charlie 's Angels ?""]"
+3	3	[('president of South Africa', -0.19898629188537598), ('of South Africa', -0.26233237981796265), ('South Africa', -0.37541311979293823), ('in 1994', -0.3959546685218811)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+5	5	[('the population', -0.3235419988632202), ('of China', -0.3984803557395935)]	['How many blacks served in the Vietnam War', 'What are values ?']
+5	5	[('Rosa Parks', -0.3901556134223938)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[]	['What are bear and bull markets ?', 'What is a plant supplement ?']
+2	2	[('am oxic illin', -0.8707154160365462), ('is am oxic illin', -0.8795987905468792)]	['What is a heuristic ?', 'What are the different approaches of systems analysis ?']
+3	3	[]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[]	['What is a heuristic ?', 'What is object-oriented design ?']
+4	4	[('de Leon', -0.8093348145484924), ('come from', -0.8178497217595577), ('once de Leon', -0.8578414786607027), ('P once de Leon', -0.8729533653240651)]	"['What is the brightest star visible from Earth ?', ""What 's the most popular contact lens color ?""]"
+5	1	[('during which war', 0.18221965432167053), ('paper currency', 0.13207247853279114), ('during which', 0.01961994171142578)]	['What was the longest war in U.S. history ?', 'Define cosmology']
+2	2	[('desktop publishing', -0.8432485684752464), ('is desktop publishing', -0.8915211390703917), ('What is desktop publishing', -0.9047695330809802)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+5	5	"[(""the sun ' s"", -0.020185649394989014)]"	['What is the brightest star visible from Earth ?', 'What are values ?']
+5	5	[('join the United Nations', 0.08636581897735596), ('the United Nations', 0.02394998073577881)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+4	3	[('the US', -0.7881027311086655), ('in the US', -0.8371643926948309)]	"[""What country 's royal house is Bourbon-Parma ?"", 'How many blacks served in the Vietnam War']"
+4	4	[('Prince Edward', -0.8647713549435139), ('Prince Edward Island', -0.9152419148012996)]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+5	5	[('was it discovered', -0.052006661891937256), ('what year', -0.1997826099395752)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+2	2	[('cry ogen ics', -0.8782863523811102), ('is cry ogen ics', -0.893225540407002)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+2	2	[('coral reefs', -0.3444710150361061), ('are coral reefs', -0.39123838022351265), ('What are coral reefs', -0.40423526242375374)]	['What are values ?', 'What is the chemical composition of a Barbie ?']
+5	1	[('baseball - winning', -0.11401575803756714)]	['What is the chemical composition of a Barbie ?', 'What are values ?']
+2	2	[('neurolog y', -0.8322814218699932), ('is neurolog y', -0.8730831723660231), ('What is neurolog y', -0.8849086912814528)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+3	3	[('Who invented the calculator', -0.2745435833930969), ('invented the calculator', -0.32507026195526123), ('the calculator', -0.41655659675598145)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[('measure earthquakes', -0.8746283836662769)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+3	3	[('Duke E', -0.4658127725124359), ('lling ton', -0.4738193452358246)]	"['President Bush compared Saddam Hussein to whom ?', ""Who played the original Charlie 's Angels ?""]"
+4	4	[('Phoenix , AZ', -0.8838938269764185)]	"['What is the brightest star visible from Earth ?', ""What 's the most popular contact lens color ?""]"
+2	2	[('a mic ron', -0.8629567483440042), ('is a mic ron', -0.8716849065385759)]	['What is a heuristic ?', 'What is object-oriented design ?']
+5	5	[('what is the temperature', 0.004798829555511475), ('is the temperature', -0.07573860883712769), ('the temperature', -0.27192240953445435)]	['What are values ?', 'What is the brightest star visible from Earth ?']
+1	1	[]	"['What explorers followed Columbus to the Americas ?', ""What characteristics contribute to its `` intelligence '' ?""]"
+5	5	[]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+4	4	[('the U . S', -0.8089946256950498)]	['How many blacks served in the Vietnam War', 'What is the brightest star visible from Earth ?']
+5	1	[('a poison arrow frog', 0.1942848563194275), ('poison arrow', 0.02658909559249878)]	['President Bush compared Saddam Hussein to whom ?', 'What is the chemical composition of a Barbie ?']
+2	2	[('is acupuncture', -0.8771318644285202), ('What is acupuncture', -0.9155987249687314)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+5	5	[('the state of Alaska', 0.1384061574935913), ('the coastline', -0.24024373292922974), ('the state', -0.27150601148605347), ('of Alaska', -0.2895840108394623)]	"['What river is Pocahontas buried along ?', ""What was the sequel to The Moon 's Balloon ?""]"
+3	3	"[(""Neil Armstrong ' s"", -0.185357004404068)]"	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+1	1	[]	"[""What characteristics contribute to its `` intelligence '' ?"", 'What explorers followed Columbus to the Americas ?']"
+3	3	[('in 1989', -0.44688528776168823)]	"['President Bush compared Saddam Hussein to whom ?', ""Who played the original Charlie 's Angels ?""]"
+5	5	[]	['President Bush compared Saddam Hussein to whom ?', 'When was Hurricane Hugo ?']
+1	1	[('oste op or osis', -0.11130654811859131)]	['What steps can be taken to prevent diabetes ?', 'What explorers followed Columbus to the Americas ?']
+5	5	[('won the World Series', -0.008066177368164062), ('the World Series', -0.11974036693572998), ('the Chicago Cubs', -0.14427697658538818)]	"[""What 's the third month of the Gregorian calendar ?"", 'When was the battle of the Somme fought ?']"
+4	4	[('is Perth', -0.8567115664482117), ('Where is Perth', -0.9171151062473655)]	"[""What 's the most popular contact lens color ?"", 'What is the brightest star visible from Earth ?']"
+5	5	[('did WWII begin', -0.014046549797058105)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+5	5	[('of a golf ball', -0.004250705242156982), ('a golf ball', -0.10362178087234497)]	['What is the chemical composition of a Barbie ?', 'What are values ?']
+2	2	[('an eclipse', -0.7782731093466282), ('is an eclipse', -0.820712061598897), ('What is an eclipse', -0.8306637781206518)]	['What did The Gas House Gang play ?', 'What is a handheld PC ?']
+3	3	[('Who discovered America', -0.2336086630821228), ('discovered America', -0.3270471692085266)]	"['President Bush compared Saddam Hussein to whom ?', ""Who played the original Charlie 's Angels ?""]"
+5	5	[]	['What are values ?', 'What is the brightest star visible from Earth ?']
+3	3	[('Which president was unmarried', -0.3580027222633362), ('was unmarried', -0.4057696461677551), ('Which president', -0.4357941448688507)]	['President Bush compared Saddam Hussein to whom ?', 'Who was The Pride of the Yankees ?']
+5	5	[('the Milky Way galaxy', 0.02388143539428711), ('Milky Way', -0.37740975618362427)]	['What is the brightest star visible from Earth ?', 'Define cosmology']
+5	5	[('most thunder storms', -0.044106900691986084), ('which season', -0.22645175457000732)]	['President Bush compared Saddam Hussein to whom ?', 'When was Hurricane Hugo ?']
+2	2	[('Wim bledon', -0.8353725224733353), ('is Wim bledon', -0.8842000477015972), ('What is Wim bledon', -0.8960212778765708)]	"[""Who played the original Charlie 's Angels ?"", 'What did The Gas House Gang play ?']"
+5	5	[('for a cat', -0.2928393483161926), ('a cat', -0.4404895603656769)]	['What is the chemical composition of a Barbie ?', 'What are values ?']
+5	5	[('a n autical mile', 0.06913834810256958), ('n autical', -0.24739879369735718)]	['What is the brightest star visible from Earth ?', 'Define cosmology']
+3	3	"[(""Harper ' s Ferry"", -0.2780807614326477), ('in 18 59', -0.31994789838790894), ('was the abolition', -0.3217228651046753), (""Harper ' s"", -0.36928248405456543), ('the abolition', -0.4014442563056946)]"	"[""Who played the original Charlie 's Angels ?"", 'Who was Monet ?']"
+2	2	[]	['What are values ?', 'How many bytes are in a terabyte ?']
+1	1	[('to go into space', 0.11077249050140381), ('go into space', -0.01558530330657959), ('into space', -0.16365718841552734)]	['What did The Gas House Gang play ?', 'Who directed The Wild Bunch ?']
+2	2	[('is foreclosure', -0.8557059019804001), ('What is foreclosure', -0.9005238218232989)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+4	1	[('near Kentucky', -0.7810735292732716)]	['What is the brightest star visible from Earth ?', 'What U.S. state is Mammoth Cave National Park in ?']
+4	4	[('the Holland Tunnel', -0.9196277651935816)]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+3	3	[('Amazing Grace', -0.3603630065917969)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+1	3	[('play in baseball', -0.0048992931842803955), ('in baseball', -0.11978113651275635), ('Willie Davis', -0.14480723440647125)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[('are plate', -0.8262430876493454), ('What are plate', -0.8675835812464356), ('What are plate lets', -0.8747464703628793)]	['What is a heuristic ?', 'What are values ?']
+2	2	[('sever ance', -0.7583929635584354), ('sever ance pay', -0.79940539970994), ('is sever ance pay', -0.8093844032846391)]	['What are values ?', 'What are bear and bull markets ?']
+1	1	"[(""Roy Roger ' s"", 0.17431223392486572)]"	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+4	4	[('the National Archives', -0.9314649226143956)]	"[""What 's the most popular contact lens color ?"", 'Define cosmology']"
+2	1	[('a baby turkey', -0.6260691694915295)]	"[""What characteristics contribute to its `` intelligence '' ?"", 'What is the chemical composition of a Barbie ?']"
+5	1	[('in the human body', 0.3602200448513031), ('the human body', 0.23506060242652893)]	['What is the chemical composition of a Barbie ?', 'How many bytes are in a terabyte ?']
+3	3	[('is a German philosopher', -0.36526334285736084), ('a German philosopher', -0.39172685146331787)]	"['President Bush compared Saddam Hussein to whom ?', ""Who played the original Charlie 's Angels ?""]"
+1	1	[]	['What did The Gas House Gang play ?', 'President Bush compared Saddam Hussein to whom ?']
+2	2	[]	['What is DSL ?', 'What is Java ?']
+2	2	[('is nicotine', -0.8510146029293537), ('What is nicotine', -0.8859186256304383)]	['What is a heuristic ?', 'What is object-oriented design ?']
+1	1	[('for vitamin B 1', -0.09541893005371094), ('vitamin B 1', -0.1841299831867218)]	"['What explorers followed Columbus to the Americas ?', ""What characteristics contribute to its `` intelligence '' ?""]"
+3	3	[('Who discovered rad ium', -0.251254141330719), ('discovered rad ium', -0.3010748624801636), ('rad ium', -0.39567863941192627)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[('sun sp ots', -0.7596786981448531)]	['What is a heuristic ?', 'What are the different approaches of systems analysis ?']
+5	5	[('colon ized', -0.1596124768257141)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+3	3	[('their uniform', -0.45834141969680786), ('the first', -0.4597882926464081), ('of their uniform', -0.47696369886398315), ('part of their uniform', -0.5283375084400177)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+4	4	[('is Egypt on', -0.9098550286144018)]	"['What is the brightest star visible from Earth ?', ""What 's the most popular contact lens color ?""]"
+4	4	[('of Mongolia', -0.7741981893777847), ('the capital', -0.7879540622234344)]	"['What is the brightest star visible from Earth ?', ""What 's the most popular contact lens color ?""]"
+2	2	[('nan otechnology', -0.8226826079189777), ('is nan otechnology', -0.8590616248548031), ('What is nan otechnology', -0.8698078391607851)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+4	4	[('which colony', -0.3255820833146572), ('populate which colony', -0.36456072330474854), ('to populate which colony', -0.3720967569388449)]	"[""What was John Steinbeck 's travelling companion Charley ?"", 'Define cosmology']"
+4	4	[('lower 48', -0.8454013168811798), ('the geographic center', -0.898444976657629), ('the lower 48 states', -0.9094651623163372)]	['Define cosmology', 'What is the brightest star visible from Earth ?']
+2	2	[]	['What is a heuristic ?', 'What is DSL ?']
+2	2	[('poly mers', -0.7216104045510292), ('are poly mers', -0.7548014959320426), ('What are poly mers', -0.7611894734436646)]	['What is a heuristic ?', 'What are the different approaches of systems analysis ?']
+5	5	[('in the Caribbean', 0.06483620405197144), ('the Caribbean', -0.09927511215209961)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+4	4	[('M auna Lo a', -0.9226429981645197)]	['What U.S. state is Mammoth Cave National Park in ?', 'What is the brightest star visible from Earth ?']
+1	1	[('for the Northern Lights', -0.05445444583892822), ('the Northern Lights', -0.1585918366909027)]	"['What did The Gas House Gang play ?', ""What characteristics contribute to its `` intelligence '' ?""]"
+4	4	[('part of', -0.8270488008856773), ('is Spain part of', -0.8966516158543527)]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+5	5	[]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[('acet amin ophen', -0.815734083764255), ('is acet amin ophen', -0.8246486564166844)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+4	4	[('per year', -0.6923968642950058), ('of rain', -0.6950181685388088), ('the least amount', -0.7185012088157237)]	['What is the brightest star visible from Earth ?', 'When is the Sun closest to the Earth ?']
+3	3	[('founded American Red Cross', -0.20315057039260864), ('American Red Cross', -0.25356775522232056)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+5	5	[('become the Atlanta Braves', -0.060407280921936035), ('the Milwaukee Braves', -0.17943847179412842), ('the Atlanta Braves', -0.1830686330795288)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+5	5	[('is alcohol absorbed', -0.21578609943389893)]	['What molecules include fluorine , sodium and magnesium ?', 'What is the brightest star visible from Earth ?']
+5	5	[]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[('super nova', -0.8003312610089779), ('is super nova', -0.8381608296185732), ('What is super nova', -0.8485669807996601)]	['What is a heuristic ?', 'What is object-oriented design ?']
+4	4	[]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+4	4	[('Live free', -0.4727892614901066), ('Live free or Die', -0.5215505883097649)]	['What U.S. state is Mammoth Cave National Park in ?', 'What U.S. state is Fort Knox in ?']
+4	4	[('our ve', -0.8576218001544476), ('the L', -0.8614789396524429)]	['What river is Pocahontas buried along ?', 'What U.S. state is Mammoth Cave National Park in ?']
+5	5	[('the first stamp', -0.031591713428497314)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+1	1	[('mix to make orange', -0.12320220470428467), ('to make orange', -0.23242607712745667), ('make orange', -0.34571459889411926)]	"['What explorers followed Columbus to the Americas ?', ""What characteristics contribute to its `` intelligence '' ?""]"
+5	5	[('from the sun', -0.08282184600830078), ('the sun', -0.3336777091026306)]	['What is the brightest star visible from Earth ?', 'When is the Sun closest to the Earth ?']
+4	4	[('of water', -0.7670818790793419), ('What body', -0.7712926864624023), ('the Canary Islands', -0.818563325330615)]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+2	2	[('neuro pathy', -0.8491778932511806), ('is neuro pathy', -0.8900476591661572), ('What is neuro pathy', -0.9013811822514981)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+4	4	[]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+2	2	[('is cryptography', -0.8663112781941891), ('What is cryptography', -0.9020047085359693)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+2	1	[('natural gas', -0.5711190328001976), ('composed of', -0.575179036706686)]	['What molecules include fluorine , sodium and magnesium ?', 'What is a heuristic ?']
+3	3	[('of Canada', -0.4546976685523987)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+3	3	[('the battle of Waterloo', -0.46400219202041626), ('the battle', -0.46737992763519287), ('of Waterloo', -0.47282448410987854)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[('is leukemia', -0.8549372628331184), ('What is leukemia', -0.8929887283593416)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+4	4	[('Howard Hughes', -0.8333028182387352)]	['What river is Pocahontas buried along ?', 'What U.S. state is Mammoth Cave National Park in ?']
+1	1	[('for June', -0.1664992868900299)]	['What did The Gas House Gang play ?', 'What is your favorite color ?']
+5	1	[('in Minnesota', -0.3165368437767029)]	['What are values ?', 'What is the abbreviation for Original Equipment Manufacturer ?']
+5	5	[('from the earth', -0.2168346643447876), ('to the sun', -0.25043487548828125), ('in miles', -0.4615713357925415), ('the earth', -0.46587610244750977), ('the sun', -0.4944717586040497)]	"[""What was the sequel to The Moon 's Balloon ?"", ""What was John Steinbeck 's travelling companion Charley ?""]"
+5	5	[('for a chicken', -0.18349546194076538), ('a chicken', -0.42469364404678345)]	['What are values ?', 'What is the chemical composition of a Barbie ?']
+5	5	[]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+5	2	[('What is relative humidity', -0.010002076625823975), ('is relative humidity', -0.1382407546043396), ('relative humidity', -0.34476107358932495)]	['What are values ?', 'What are the different approaches of systems analysis ?']
+4	4	[('358 24', -0.8568602204322815), ('of 358 24', -0.9113690983504057), ('the zip code', -0.9144117990508676)]	['What explorers followed Columbus to the Americas ?', 'What is the brightest star visible from Earth ?']
+1	1	[('is used in Algeria', -0.338155061006546), ('used in Algeria', -0.3823836147785187), ('in Algeria', -0.45323899388313293)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+3	3	[]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+1	1	[('most popular', -0.24853351712226868), ('in 1957', -0.27085360884666443)]	['What is your favorite color ?', 'What explorers followed Columbus to the Americas ?']
+2	1	[('made of', -0.6313680447638035), ('i made of', -0.657430546823889)]	['What did The Gas House Gang play ?', 'What is a heuristic ?']
+3	1	[('in 1957', -0.13898292183876038), ('into space', -0.14738979935646057), ('the satellite', -0.18593809008598328), ('the Soviet Union', -0.2332635521888733)]	['What is the brightest star visible from Earth ?', 'Who wrote The Collector ?']
+4	4	[('The En quire r', -0.8800412621349096)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+3	3	[('invented the sl inky', -0.20310908555984497), ('the sl inky', -0.2785986065864563)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+1	1	[('have back bones', -0.3736041486263275), ('back bones', -0.4922577440738678)]	"[""What characteristics contribute to its `` intelligence '' ?"", 'President Bush compared Saddam Hussein to whom ?']"
+5	5	[('of copper', -0.2857092022895813)]	['What are values ?', 'What is the chemical composition of a Barbie ?']
+4	4	[('Olympus Mons', -0.8546867072582245), ('the volcano', -0.8685890920460224)]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+3	3	[('of the United States', -0.33029890060424805), ('the United States', -0.3671022057533264), ('23 rd', -0.436387836933136)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+5	5	[]	['What are values ?', 'What is the chemical composition of a Barbie ?']
+2	2	[('acid rain', -0.8464421257376671), ('of acid rain', -0.8795686094090343)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+5	5	[('the United States', 0.0156477689743042), ('abolish the draft', -0.015448510646820068), ('the draft', -0.21923959255218506)]	['What explorers followed Columbus to the Americas ?', 'How many blacks served in the Vietnam War']
+5	5	[('the speed of light', -0.04676705598831177), ('the speed', -0.40106070041656494), ('of light', -0.4278969168663025)]	['What is the brightest star visible from Earth ?', 'Define cosmology']
+4	4	[('is Montreal in', -0.872135310433805)]	"['What is the brightest star visible from Earth ?', ""What 's the most popular contact lens color ?""]"
+1	4	[('as the Twin Towers', 0.296673446893692), ('the Twin Towers', 0.19933012127876282), ('New York', 0.002869933843612671)]	['What flower did Vincent Van Gogh paint ?', 'What U.S. state is Mammoth Cave National Park in ?']
+2	2	[('is fungus', -0.8006522804498672), ('What is fungus', -0.8395701302215457)]	['What is DSL ?', 'What is object-oriented design ?']
+1	1	[('in the Netherlands', -0.44377678632736206), ('most frequently', -0.5063291788101196), ('the Netherlands', -0.547547459602356)]	"['What explorers followed Columbus to the Americas ?', ""What characteristics contribute to its `` intelligence '' ?""]"
+2	2	[('sodium chloride', -0.8003006055951118), ('is sodium chloride', -0.8367487043142319), ('What is sodium chloride', -0.8439588426845148)]	['What is a heuristic ?', 'What is DSL ?']
+1	1	[('dom ino es', -0.06069350242614746), ('on dom ino es', -0.11722245812416077)]	['Name a Gaelic language', 'What explorers followed Columbus to the Americas ?']
+5	5	[('in a ton', -0.03329282999038696), ('How many', -0.2516762614250183), ('a ton', -0.2862991690635681)]	['How many visitors go to the Vatican each year ?', 'Who killed JFK ?']
+2	2	[('is influenza', -0.8462034650146961), ('What is influenza', -0.882832357659936)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+2	2	[('ozone depletion', -0.8156889155507088), ('is ozone depletion', -0.8529074108228087), ('What is ozone depletion', -0.8608137983828783)]	['What is a heuristic ?', 'What are values ?']
+5	5	[('the Mon a Lisa', 0.07356071472167969)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+2	2	[('Sitting Shiva', -0.8527547903358936)]	['What is DSL ?', 'What are values ?']
+5	1	[('in Madrid , Spain', -0.23446398973464966), ('Madrid , Spain', -0.3343292474746704)]	['What are values ?', 'What is the chemical composition of a Barbie ?']
+4	4	[('North America', -0.7669747322797775), ('from Maine', -0.7779253795742989), ('to Georgia', -0.7826084569096565), ('in North America', -0.8211372178047895)]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+2	1	[('made of', -0.5292353183031082), ('plastic made of', -0.5596372876316309), ('is plastic made of', -0.5671950109535828)]	['What is the chemical composition of a Barbie ?', 'What molecules include fluorine , sodium and magnesium ?']
+5	5	[('the population', -0.290311336517334), ('of Nigeria', -0.34405869245529175)]	['How many blacks served in the Vietnam War', 'What is the brightest star visible from Earth ?']
+2	2	[]	['What did The Gas House Gang play ?', 'What is object-oriented design ?']
+4	4	[('the Grand Canyon', -0.9198695635423064)]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+3	3	[('Who invented the telephone', -0.2504558563232422), ('invented the telephone', -0.30329710245132446), ('the telephone', -0.4049435257911682)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+5	5	[('buy Alaska', -0.19423288106918335)]	['How many blacks served in the Vietnam War', 'What explorers followed Columbus to the Americas ?']
+3	3	[('of Ireland', -0.37581396102905273), ('the leader', -0.40018221735954285), ('the leader of Ireland', -0.44520366191864014)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[]	['What is a heuristic ?', 'What is object-oriented design ?']
+5	5	[('in a cubic foot', 0.009966850280761719), ('a cubic foot', -0.07906746864318848), ('How many', -0.3283395767211914), ('of water', -0.36636388301849365)]	['Define cosmology', 'Who wrote The Collector ?']
+2	1	[('the Legislative branch', -0.464368705637753), ('of the Legislative branch', -0.4730016568209976)]	['Name a Gaelic language', 'What is the abbreviation of General Motors ?']
+2	2	[('son ar', -0.835300650447607), ('is son ar', -0.8816772978752851), ('What is son ar', -0.8942157172132283)]	['What is a heuristic ?', 'What is object-oriented design ?']
+4	4	[('most people', -0.877748429775238)]	"['What explorers followed Columbus to the Americas ?', ""What 's the most popular contact lens color ?""]"
+2	2	[('is phosphorus', -0.844619408249855), ('What is phosphorus', -0.8779033026657999)]	['What are values ?', 'What is DSL ?']
+4	4	[('the Sea', -0.7573046199977398), ('Tr anqu ility', -0.7923141568899155), ('of Tr anqu ility', -0.8078743247315288)]	['What river is Pocahontas buried along ?', 'What U.S. state is Mammoth Cave National Park in ?']
+5	5	[('How fast is sound', -0.014372766017913818), ('How fast', -0.36115342378616333), ('is sound', -0.3842078447341919)]	['What is the abbreviation for Original Equipment Manufacturer ?', 'What is the brightest star visible from Earth ?']
+4	4	[('cogn ac', -0.8444411307573318), ('produced in', -0.8528607934713364)]	['What is the brightest star visible from Earth ?', 'Define cosmology']
+2	2	"[(""Valentine ' s"", -0.8228221866302192)]"	"[""Who played the original Charlie 's Angels ?"", 'President Bush compared Saddam Hussein to whom ?']"
+2	2	[('gray hair', -0.721561960875988), ('causes gray hair', -0.7750701941549778), ('What causes gray hair', -0.787960163783282)]	['What is a common anti-AIDS drug ?', 'What is diabetes ?']
+2	2	[('is hypertension', -0.8504566252231598), ('What is hypertension', -0.8884768132120371)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+2	2	[('is bandwidth', -0.8167250454425812), ('What is bandwidth', -0.8464583232998848)]	['What are values ?', 'What is a heuristic ?']
+4	4	[('the U . S', -0.564487935975194)]	['What is the chemical composition of a Barbie ?', 'How many blacks served in the Vietnam War']
+2	2	[('a parasite', -0.7278130613267422), ('is a parasite', -0.7646359084174037), ('What is a parasite', -0.7725688781356439)]	['What did The Gas House Gang play ?', 'What is DSL ?']
+2	2	[('home equity', -0.8212460391223431), ('is home equity', -0.8632191754877567), ('What is home equity', -0.8739717577118427)]	['What are values ?', 'What is object-oriented design ?']
+2	2	[('meteor ologists', -0.873581275343895)]	['What did The Gas House Gang play ?', 'Who directed The Wild Bunch ?']
+2	1	[('legally blind', -0.7947087287902832), ('being legally blind', -0.8427105220034719), ('for being legally blind', -0.8526725033298135)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+3	3	[('in the world', -0.27146244049072266), ('the world', -0.3873053193092346)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+4	4	[('the twin cities', -0.9055662862956524)]	"[""What 's the most popular contact lens color ?"", 'What is the brightest star visible from Earth ?']"
+1	1	[('invent in 1903', -0.0008040666580200195), ('in 1903', -0.1603110134601593), ('Howard Smith', -0.17500415444374084)]	"['What did The Gas House Gang play ?', ""Who played the original Charlie 's Angels ?""]"
+1	1	[('of liberty', -0.32742100954055786), ('made of', -0.32918214797973633), ('the statue', -0.33429139852523804)]	"[""What characteristics contribute to its `` intelligence '' ?"", 'What explorers followed Columbus to the Americas ?']"
+2	2	[('pil ates', -0.8139012977480888), ('is pil ates', -0.8667018972337246), ('What is pil ates', -0.8828054945915937)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+4	4	[]	['What is the brightest star visible from Earth ?', 'When is the Sun closest to the Earth ?']
+5	5	[('of the Nile river', -0.025710642337799072), ('the Nile river', -0.14900100231170654)]	['What is the brightest star visible from Earth ?', 'What is the abbreviation for Original Equipment Manufacturer ?']
+2	2	[]	"[""Who played the original Charlie 's Angels ?"", 'What are bear and bull markets ?']"
+5	5	[]	['Define cosmology', 'Define Sinn Fein']
+3	3	[('for the Brooklyn Dodgers', -0.343600332736969), ('the Brooklyn Dodgers', -0.3697044253349304)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+3	3	[('of Canada', -0.4609808325767517)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+5	5	[('How many', -0.3304409980773926)]	['Define cosmology', 'Who killed JFK ?']
+1	1	[('did Glenn Miller play', -0.06933832168579102), ('Glenn Miller', -0.3176124095916748)]	['President Bush compared Saddam Hussein to whom ?', 'What did The Gas House Gang play ?']
+5	5	[('when she died', -0.1929396390914917), ('Joan of Arc', -0.27437251806259155), ('she died', -0.41636282205581665), ('of Arc', -0.4645411968231201)]	['What is the chemical composition of a Barbie ?', 'President Bush compared Saddam Hussein to whom ?']
+2	2	[]	['What is DSL ?', 'How do you use an intranet ?']
+2	2	[('d ian etics', -0.8968580774962902)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+4	4	[('of Ethiopia', -0.7646732702851295), ('the capital', -0.7794487588107586)]	"['What is the brightest star visible from Earth ?', ""What 's the most popular contact lens color ?""]"
+5	5	[('is an elephant pregnant', -0.037045419216156006), ('how long', -0.36425310373306274), ('an elephant', -0.41027969121932983)]	['What are values ?', 'How many blacks served in the Vietnam War']
+2	2	[('J op lin', -0.8535844483412802)]	['What did The Gas House Gang play ?', 'President Bush compared Saddam Hussein to whom ?']
+1	1	[('in Iceland', -0.4003717005252838)]	"['What explorers followed Columbus to the Americas ?', ""What characteristics contribute to its `` intelligence '' ?""]"
+2	2	[('AM radio stations', -0.9076563771814108), ('FM radio stations', -0.9079236024990678)]	['What are bear and bull markets ?', 'What is a handheld PC ?']
+2	2	[]	['What is object-oriented design ?', 'What is object-oriented design ?']
+3	3	[('the U . S', -0.3152230381965637)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[('pe y ote', -0.8845074772834778)]	['What is a handheld PC ?', 'What did The Gas House Gang play ?']
+2	2	[('used for', -0.7538692355155945)]	"['What did The Gas House Gang play ?', ""Who played the original Charlie 's Angels ?""]"
+2	2	[('vis cos ity', -0.825016472954303), ('is vis cos ity', -0.8305008467286825)]	['What is a heuristic ?', 'What are values ?']
+5	5	[('become a state', 0.04376530647277832), ('a state', -0.14500808715820312)]	['What explorers followed Columbus to the Americas ?', 'How many blacks served in the Vietnam War']
+2	0	[('for Texas', -0.4845011718571186)]	['What explorers followed Columbus to the Americas ?', 'What is DSL ?']
+2	1	[('out of', -0.5194685496389866), ('made out of', -0.5504345605149865)]	['What is the chemical composition of a Barbie ?', 'What is a heuristic ?']
+4	4	[('the body', -0.661752499639988), ('on the body', -0.7254306133836508), ('a mortar board', -0.7267216071486473), ('a mortar board worn', -0.7421136223711073)]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+2	0	[('stand for', -0.6962043903768063)]	"['What did The Gas House Gang play ?', ""Who played the original Charlie 's Angels ?""]"
+4	4	[('is Hitler buried', -0.882048774510622), ('Where is Hitler buried', -0.8997755027376115)]	['What river is Pocahontas buried along ?', 'What U.S. state is Mammoth Cave National Park in ?']
+2	2	[('ant ac ids', -0.8396876947954297)]	['What is a heuristic ?', 'What is object-oriented design ?']
+2	2	[('pulmonary fib', -0.8432363495230675), ('pulmonary fib rosis', -0.8821765277534723), ('is pulmonary fib rosis', -0.8930387578438967)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+2	2	[]	"[""Who played the original Charlie 's Angels ?"", 'What is a heuristic ?']"
+2	2	[('nap rox en', -0.8834333252161741)]	['What is a heuristic ?', 'What is object-oriented design ?']
+2	2	[('stre p throat', -0.8574017314240336), ('is stre p throat', -0.8686942083295435)]	['What is DSL ?', 'What is object-oriented design ?']
+4	4	[('the U . S', -0.8640859159640968)]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+2	1	[('foot and mouth', -0.8693691603839397)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+5	5	[('of a dollar bill', 0.01572507619857788), ('a dollar bill', -0.07474392652511597)]	['What are values ?', 'Define cosmology']
+2	1	[('a professional map drawer', -0.4776710569858551)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[('Ab orig ines', -0.8361495016142726)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+2	2	[('hybrid ization', -0.8421387746930122), ('is hybrid ization', -0.8882960919290781), ('What is hybrid ization', -0.9024153971113265)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+1	1	[('is ind igo', -0.24959978461265564), ('ind igo', -0.32581639289855957)]	['President Bush compared Saddam Hussein to whom ?', 'What is the chemical composition of a Barbie ?']
+5	5	[('a car', -0.323978066444397), ('to be', -0.32774049043655396), ('in Italy', -0.3691253066062927)]	['Define cosmology', 'What are the ages in comic book lingo ?']
+2	1	[]	['What is object-oriented design ?', 'What is object-oriented design ?']
+1	1	[]	['What is the chemical composition of a Barbie ?', 'President Bush compared Saddam Hussein to whom ?']
+2	0	[('stand for', -0.6632707938551903)]	['What did The Gas House Gang play ?', 'What is DSL ?']
+5	5	[('go on strike', -0.008054196834564209), ('the NFL', -0.1836487054824829), ('on strike', -0.1910913586616516)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+2	2	[('solar wind', -0.7993240877985954), ('is solar wind', -0.8385288119316101), ('What is solar wind', -0.847069475101307)]	['What is a heuristic ?', 'What is object-oriented design ?']
+5	5	[('land on the moon', 0.04618525505065918), ('on the moon', -0.03913372755050659), ('the moon', -0.22351467609405518), ('Neil Armstrong', -0.26529771089553833)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+5	5	[('When was Hiroshima bombed', 0.04845684766769409), ('was Hiroshima bombed', -0.06568658351898193)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+4	4	[('the Savannah River', -0.9005689639598131)]	['What river is Pocahontas buried along ?', 'What U.S. state is Mammoth Cave National Park in ?']
+3	3	[('in the Vietnam War', -0.2431340217590332), ('the Vietnam War', -0.27311599254608154)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+4	4	[('all the planets', -0.8313494995236397), ('of all the planets', -0.8501659114845097), ('the strongest magnetic field', -0.8539109001867473)]	"['What explorers followed Columbus to the Americas ?', ""What characteristics contribute to its `` intelligence '' ?""]"
+3	3	[('of Alaska', -0.3845565915107727), ('the governor', -0.44333136081695557)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+5	5	[('seize power in Italy', 0.08690500259399414), ('in Italy', -0.20865315198898315), ('Muss olini', -0.23774564266204834)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+4	4	[('of Persia', -0.7949407212436199), ('the capital', -0.8050990849733353)]	"['What is the brightest star visible from Earth ?', ""What 's the most popular contact lens color ?""]"
+5	5	[('an oct opus', -0.07720565795898438), ('How many', -0.26659125089645386)]	['What is the chemical composition of a Barbie ?', 'What is the brightest star visible from Earth ?']
+2	2	[('is pneumonia', -0.8448993302881718), ('What is pneumonia', -0.8878701375797391)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+4	4	[('the US', -0.7411180734634399), ('in the US', -0.7958269789814949)]	"['What is the brightest star visible from Earth ?', ""What 's the most popular contact lens color ?""]"
+2	2	[('a fuel cell', -0.8328623920679092), ('is a fuel cell', -0.8417711721267551)]	['What is a heuristic ?', 'What is DSL ?']
+3	3	[('to appear on TV', -0.3068743348121643), ('appear on TV', -0.32731151580810547), ('on TV', -0.4105573296546936)]	"[""Who played the original Charlie 's Angels ?"", 'Who received the Will Rogers Award in 1989 ?']"
+4	4	[('Little League', -0.8659724742174149)]	"[""What 's the most popular contact lens color ?"", 'What river is Pocahontas buried along ?']"
+2	1	[('of twins', -0.6748546622693539)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+1	4	[('is the brightest star', -0.3479844927787781), ('the brightest star', -0.42176908254623413)]	"[""What characteristics contribute to its `` intelligence '' ?"", 'What explorers followed Columbus to the Americas ?']"
+2	2	[('is diabetes', -0.8580003082752228), ('What is diabetes', -0.8960645440965891)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+5	5	[('President Kennedy', -0.23688936233520508)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	0	[('TM J', -0.82895228266716), ('is TM J', -0.8715443126857281), ('What is TM J', -0.8825071766041219)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+1	1	[('is yak milk', -0.15086856484413147), ('yak milk', -0.16720888018608093)]	['What is the chemical composition of a Barbie ?', 'What molecules include fluorine , sodium and magnesium ?']
+5	5	[('Dwight D . Eisenhower', 0.009046196937561035)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	0	[('IS DN', -0.8427269570529461)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+2	2	[('the sun', -0.8553835079073906)]	['What are bear and bull markets ?', 'What is a plant supplement ?']
+5	5	[('between dollars and pounds', 0.037308335304260254), ('dollars and pounds', -0.03689926862716675)]	['What are values ?', 'How many blacks served in the Vietnam War']
+5	5	[('Abraham Lincoln', -0.35263100266456604)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[('the Milky Way', -0.8146113213151693), ('is the Milky Way', -0.8238481425214559)]	['What is a heuristic ?', 'What is DSL ?']
+2	2	[('is mold', -0.8229505158960819), ('What is mold', -0.8629546891897917)]	['What is a heuristic ?', 'What is DSL ?']
+5	5	[('was Moz art born', 0.0023822784423828125), ('Moz art', -0.2955925464630127)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+2	1	[('of frogs', -0.510273490101099), ('a group', -0.5174118150025606)]	['What is a heuristic ?', 'What are binomial coefficients ?']
+1	1	"[(""William Penn ' s"", 0.09695857763290405)]"	"['What explorers followed Columbus to the Americas ?', ""What characteristics contribute to its `` intelligence '' ?""]"
+5	5	[('of gold', 0.02742689847946167)]	['What are values ?', 'What is the formula to calculate pi ?']
+1	4	[('of the White House', 0.027467846870422363), ('the White House', 0.0156954824924469)]	['What U.S. state ends with a G ?', 'What is the chemical composition of a Barbie ?']
+2	2	[('sem olina', -0.8226853273808956), ('is sem olina', -0.8610812807455659), ('What is sem olina', -0.8694459019461647)]	['What is a heuristic ?', 'What is DSL ?']
+1	1	[('Mel ba sauce', -0.2706528604030609), ('made from', -0.300082266330719), ('Mel ba', -0.3136144280433655)]	"['What explorers followed Columbus to the Americas ?', ""What characteristics contribute to its `` intelligence '' ?""]"
+2	2	[('a Major', -0.8002369701862335), ('Urs a Major', -0.8476062621921301), ('is Urs a Major', -0.8605700205080211)]	['What did The Gas House Gang play ?', 'What is DSL ?']
+5	5	[('in the human body', -0.023166656494140625), ('of water content', -0.11971312761306763), ('the human body', -0.15452593564987183), ('water content', -0.37665557861328125)]	['What is the brightest star visible from Earth ?', 'Define cosmology']
+5	5	[('does water weigh', -0.04438149929046631)]	['Define cosmology', 'What is the chemical composition of a Barbie ?']
+5	5	[('in Windsor , Ontario', -0.07805085182189941), ('Windsor , Ontario', -0.2426319122314453)]	['How many blacks served in the Vietnam War', 'What is the brightest star visible from Earth ?']
+3	3	[]	"['Who received the Will Rogers Award in 1989 ?', ""Who 's won the most Oscars for costume design ?""]"
+5	5	[('the population', -0.29672515392303467), ('of Australia', -0.33005255460739136)]	['What are values ?', 'How many blacks served in the Vietnam War']
+3	3	[('the S istine Chapel', -0.39415431022644043)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+1	1	[('Name a stimul ant', -0.08661395311355591), ('a stimul ant', -0.2522438168525696)]	"[""What characteristics contribute to its `` intelligence '' ?"", 'What explorers followed Columbus to the Americas ?']"
+2	2	[('the climate', -0.7324122749269009), ('volcan oes', -0.7336435858160257), ('of volcan oes', -0.7569844452664256), ('on the climate', -0.7571586119011045)]	['What is a heuristic ?', 'What is the chemical reactivity of helium ?']
+5	5	[('the Andy Griffith show', -0.0937415361404419), ('Andy Griffith', -0.36527755856513977)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+2	2	[('acid rain', -0.8088380396366119), ('is acid rain', -0.8498372128233314), ('What is acid rain', -0.8595562318805605)]	['What is a heuristic ?', 'What is DSL ?']
+5	5	"[(""Mexico ' s independence"", 0.09366816282272339), (""Mexico ' s"", 0.03754657506942749)]"	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+4	4	[('Lake Cham', -0.7761985287070274), ('Lake Cham plain', -0.8104573907330632), ('of Lake Cham plain', -0.8179096357198432)]	"['What is the brightest star visible from Earth ?', ""What 's the most popular contact lens color ?""]"
+1	1	[]	['What is DSL ?', 'What did The Gas House Gang play ?']
+1	1	[]	"[""What characteristics contribute to its `` intelligence '' ?"", 'What explorers followed Columbus to the Americas ?']"
+2	2	[('icks ilver', -0.8200445286929607)]	['What is a heuristic ?', 'What is DSL ?']
+3	3	[]	"[""Who played the original Charlie 's Angels ?"", 'President Bush compared Saddam Hussein to whom ?']"
+5	5	[('the speed', -0.3560398817062378), ('of light', -0.38833439350128174)]	['What are values ?', 'How many bytes are in a terabyte ?']
+5	5	[('of a football field', -0.007027864456176758), ('a football field', -0.15007174015045166)]	['What are values ?', 'What is the abbreviation for Original Equipment Manufacturer ?']
+2	2	[('zero points', -0.8250368349254131), ('called love', -0.8347152806818485), ('zero points called love', -0.8667448859196156)]	['What are bear and bull markets ?', 'What are manifest and latent function theories ?']
+3	1	[('T oto', -0.377388596534729), ('of Oz', -0.37843629717826843), ('the Wizard', -0.3853782117366791), ('What kind', -0.4119955599308014), ('of dog', -0.4288693964481354)]	"[""Who played the original Charlie 's Angels ?"", 'When did Nostradamus believe World War III would begin ?']"
+2	2	[('a thyroid', -0.8307252675294876), ('is a thyroid', -0.8699003718793392), ('What is a thyroid', -0.8788803075440228)]	['What is a heuristic ?', 'What is object-oriented design ?']
+2	2	[('c iao', -0.8637898601591587)]	['What are values ?', 'How do you use an intranet ?']
+1	1	[('to the lungs', -0.245730459690094), ('from the heart', -0.25780391693115234), ('the heart', -0.345633327960968), ('blue blood', -0.3483763039112091), ('the lungs', -0.3584115505218506)]	"[""What characteristics contribute to its `` intelligence '' ?"", 'What explorers followed Columbus to the Americas ?']"
+5	5	[('at Yellowstone National Park', -0.18637824058532715), ('Old Faith ful', -0.20610249042510986), ('Yellowstone National Park', -0.3736976981163025), ('Old Faith', -0.4642105996608734)]	['Who killed JFK ?', 'What is the brightest star visible from Earth ?']
+2	2	[('ac etic acid', -0.844822526909411), ('is ac etic acid', -0.8546735546551645)]	['What is a heuristic ?', 'What are the different approaches of systems analysis ?']
+5	5	[('St . Louis', -0.09031718969345093)]	['What are values ?', 'What is the brightest star visible from Earth ?']
+5	1	[('with a strong acid', 0.16831347346305847), ('a strong acid', 0.07262864708900452), ('lit mus paper', -0.012762188911437988)]	['What molecules include fluorine , sodium and magnesium ?', 'What is the brightest star visible from Earth ?']
+1	1	[('of the German flag', 0.16765445470809937), ('the German flag', 0.049112558364868164)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+2	2	[]	['What did The Gas House Gang play ?', 'What is DSL ?']
+4	4	[('the Black Sea', -0.8778202626854181)]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+5	5	[('of silver', -0.29245060682296753)]	['What are values ?', 'What is the chemical composition of a Barbie ?']
+1	1	[('use in Brazil', -0.3659970760345459), ('in Brazil', -0.3870266377925873)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+2	2	[('are pathogens', -0.6955939009785652), ('What are pathogens', -0.7289117677137256)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+2	2	[('mad cow', -0.7922060452401638), ('mad cow disease', -0.8339107092469931), ('is mad cow disease', -0.8439265128690749)]	['What is a heuristic ?', 'What is object-oriented design ?']
+1	1	[('high in zinc', -0.5426319688558578), ('in zinc', -0.5824413746595383)]	"[""What characteristics contribute to its `` intelligence '' ?"", 'What are the odds of giving birth to twins ?']"
+5	5	[('enter the union', 0.14495700597763062), ('the union', -0.05836457014083862)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+4	4	[]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+2	2	[('are ethics', -0.8358458168804646), ('What are ethics', -0.88116161711514)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+2	0	[('stand for', -0.6279882751405239)]	['What did The Gas House Gang play ?', 'What is DSL ?']
+2	2	[('an ann uity', -0.8662912473082542), ('is an ann uity', -0.8741330695338547)]	['What is a heuristic ?', 'What is object-oriented design ?']
+3	3	[]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+3	3	[('the U . S', -0.26144760847091675)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+1	1	[('is tur qu oise', -0.2554628849029541), ('tur qu oise', -0.3773617148399353)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+3	3	[('to his inauguration', -0.4051930606365204), ('his inauguration', -0.4296444058418274), ('an automobile', -0.4898241460323334), ('in an automobile', -0.5014032423496246)]	"['Who received the Will Rogers Award in 1989 ?', ""Who 's won the most Oscars for costume design ?""]"
+5	5	[('of the United States', -0.10991781949996948), ('the youngest president', -0.19122743606567383), ('the United States', -0.2621689438819885)]	['What is the chemical composition of a Barbie ?', 'President Bush compared Saddam Hussein to whom ?']
+2	2	[]	['What molecules include fluorine , sodium and magnesium ?', 'What is the chemical composition of a Barbie ?']
+2	2	[('a panic disorder', -0.7710091378539801), ('is a panic disorder', -0.7822849387302995)]	['What is a common anti-AIDS drug ?', 'What is DSL ?']
+3	3	[]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+1	2	[('is a carcin ogen', -0.04520142078399658), ('a carcin ogen', -0.10683813691139221)]	['What molecules include fluorine , sodium and magnesium ?', 'What did The Gas House Gang play ?']
+2	1	[('a baby lion', -0.6806783303618431)]	['What is a heuristic ?', 'What is the chemical composition of a Barbie ?']
+5	5	[]	['What are values ?', 'How many blacks served in the Vietnam War']
+2	2	[('ne pot', -0.8471308797597885), ('ne pot ism', -0.8862822782248259), ('is ne pot ism', -0.8991508935578167)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+2	2	[('die - casting', -0.8945317734032869), ('is die - casting', -0.9078954411670566)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+2	2	[('my opia', -0.8163099959492683), ('is my opia', -0.8616315107792616), ('What is my opia', -0.8744487031362951)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+5	5	[('in New York', -0.100588858127594), ('sales tax', -0.30020833015441895), ('New York', -0.33086031675338745)]	['What are values ?', 'How many blacks served in the Vietnam War']
+5	5	"[(""the world ' s"", 0.20289719104766846), ('Develop ing nations', -0.0016012191772460938), ('what percentage', -0.17426812648773193), ('ing nations', -0.25143831968307495)]"	['How many blacks served in the Vietnam War', 'What is the brightest star visible from Earth ?']
+4	4	[('the world', -0.678508035838604), ('fourth highest', -0.6994304731488228), ('in the world', -0.7342415004968643)]	['What explorers followed Columbus to the Americas ?', 'What is the brightest star visible from Earth ?']
+2	3	"[(""Shakespeare ' s"", -0.6582343159243464)]"	['What did The Gas House Gang play ?', 'President Bush compared Saddam Hussein to whom ?']
+1	1	[]	"[""What characteristics contribute to its `` intelligence '' ?"", 'What did The Gas House Gang play ?']"
+5	5	"[(""Father ' s"", 0.15054303407669067)]"	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+2	0	[('stand for', -0.5314942561089993), ('NASA stand for', -0.5604763505980372)]	['What is DSL ?', 'What does the abbreviation cwt. ?']
+5	5	[('the Columbia River', -0.12893646955490112), ('in miles', -0.37473517656326294)]	['Who killed JFK ?', 'What is the brightest star visible from Earth ?']
+4	4	"[('The Star', -0.7656087800860405), (""`` The Star ''"", -0.8290588636882603)]"	"['What explorers followed Columbus to the Americas ?', ""What characteristics contribute to its `` intelligence '' ?""]"
+2	2	[('carbon dioxide', -0.70128608122468), ('is carbon dioxide', -0.7311320006847382), ('What is carbon dioxide', -0.7358281149063259)]	['What is a heuristic ?', 'What are values ?']
+4	4	[('Mason / D', -0.8567700581625104)]	['What river is Pocahontas buried along ?', 'What U.S. state is Mammoth Cave National Park in ?']
+5	5	[]	"[""Who played the original Charlie 's Angels ?"", 'What explorers followed Columbus to the Americas ?']"
+2	2	[('is metabolism', -0.8615726307034492), ('What is metabolism', -0.9004031242802739)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+3	3	[]	"[""Who played the original Charlie 's Angels ?"", ""Who 's won the most Oscars for costume design ?""]"
+2	1	[('made of', -0.533519335091114), ('cigarettes made of', -0.5668174531310797)]	['What molecules include fluorine , sodium and magnesium ?', 'What is the chemical composition of a Barbie ?']
+4	4	[('of Zimbabwe', -0.7435305453836918), ('the capital', -0.75362653657794)]	"['What is the brightest star visible from Earth ?', ""What 's the most popular contact lens color ?""]"
+2	0	[('stand for', -0.6169789507985115)]	['What did The Gas House Gang play ?', 'What is object-oriented design ?']
+1	1	[('of Michigan', -0.28860563039779663)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+2	2	[('semic onduct ors', -0.7828802261501551)]	['What is a heuristic ?', 'What is object-oriented design ?']
+2	2	[('nuclear power', -0.823709100484848), ('is nuclear power', -0.8613533973693848), ('What is nuclear power', -0.8707905635237694)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+2	2	[('a tsunami', -0.8118237294256687), ('is a tsunami', -0.8528026714920998), ('What is a tsunami', -0.8631381886079907)]	['What is a heuristic ?', 'What is DSL ?']
+3	3	[('the armed forces committee', -0.19953995943069458), ('armed forces', -0.39334428310394287), ('from state of Texas', -0.4047396183013916), ('state of Texas', -0.49451765418052673), ('of Texas', -0.5455862283706665)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+3	3	[('was president in 1913', -0.198633074760437), ('in 1913', -0.353273868560791)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+5	5	[]	"['President Bush compared Saddam Hussein to whom ?', ""Who played the original Charlie 's Angels ?""]"
+4	4	[]	['Define cosmology', 'What U.S. state is Mammoth Cave National Park in ?']
+1	1	[('Lind ber gh', 0.10335302352905273), ('of the plane', 0.07056832313537598), ('across the Atlantic', 0.012198805809020996), ('the plane', -0.09580919146537781), ('the Atlantic', -0.1220451295375824)]	['What flower did Vincent Van Gogh paint ?', 'Who wrote The Collector ?']
+2	2	[('is genocide', -0.8537302203476429), ('What is genocide', -0.8949609082192183)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+4	4	[('is Argentina on', -0.9095195066183805)]	"['What is the brightest star visible from Earth ?', ""What 's the most popular contact lens color ?""]"
+4	1	[('by Vikings', -0.5421077124774456), ('the late eighth century', -0.5933735459111631)]	['What explorers followed Columbus to the Americas ?', 'How many blacks served in the Vietnam War']
+2	2	[('an earthquake', -0.7434360831975937), ('is an earthquake', -0.7806139029562473), ('What is an earthquake', -0.7905525737442076)]	['What is a heuristic ?', 'What is the function of RAM ?']
+4	4	[]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+2	2	[('are enzymes', -0.7929797694087029), ('What are enzymes', -0.830435112118721)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+3	3	[('Who discovered oxygen', -0.2582464814186096), ('discovered oxygen', -0.3549228310585022)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[]	['What did The Gas House Gang play ?', 'What is object-oriented design ?']
+1	1	[('at Louisiana State University', 0.3012230694293976), ('to the Tiger', 0.29891952872276306), ('Louisiana State University', 0.1615082323551178), ('the Tiger', 0.11488214135169983), ('Louisiana State', 0.00418400764465332)]	['What is the abbreviation for Original Equipment Manufacturer ?', 'Who received the Will Rogers Award in 1989 ?']
+4	4	[]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+3	3	[('reach the North Pole', -0.23424029350280762), ('the North Pole', -0.30667001008987427)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+2	2	[]	['What is a heuristic ?', 'What is object-oriented design ?']
+2	2	[('vert igo', -0.8213753886520863), ('is vert igo', -0.8655620831996202), ('What is vert igo', -0.8782510452438146)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+2	2	[('spir ometer', -0.8295138329267502)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+5	5	[('of summer', -0.08696013689041138)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+2	0	[('the abbre viation', -0.8683841535821557)]	['What is DSL ?', 'What is object-oriented design ?']
+1	1	[('in Britain', -0.4353393018245697)]	"['What explorers followed Columbus to the Americas ?', ""What characteristics contribute to its `` intelligence '' ?""]"
+3	3	[]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+1	1	[('the trop osphere', -0.10528814792633057), ('in the trop osphere', -0.15067367255687714)]	['What is the brightest star visible from Earth ?', 'What molecules include fluorine , sodium and magnesium ?']
+4	4	[('the most water pollution', -0.8498195516876876)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+1	1	[('for elephant', -0.15930604934692383)]	['What did The Gas House Gang play ?', 'What explorers followed Columbus to the Americas ?']
+3	3	[('Gy psy', -0.4344126880168915), ('her role', -0.4988749325275421), ('the movie', -0.5076204836368561)]	"[""Who played the original Charlie 's Angels ?"", 'What did The Gas House Gang play ?']"
+1	1	[('of hunting dog', 0.045309484004974365), ('Beverly Hill', -0.08313542604446411), ('hunting dog', -0.1802428662776947)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+4	4	[('on Earth', -0.8301665410399437)]	['What is the brightest star visible from Earth ?', 'When is the Sun closest to the Earth ?']
+3	3	[('the Nobel Prize', -0.3290134072303772), ('in literature', -0.3533625602722168)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+1	1	[]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+1	1	[('get the color pink', -0.15907245874404907), ('the color pink', -0.22342786192893982), ('to be mixed', -0.3295450508594513), ('the color', -0.34173664450645447), ('be mixed', -0.3820599317550659)]	"['What explorers followed Columbus to the Americas ?', ""What characteristics contribute to its `` intelligence '' ?""]"
+1	1	[('most popular', -0.3439893424510956), ('in Japan', -0.40626299381256104)]	['What explorers followed Columbus to the Americas ?', 'What is your favorite color ?']
+2	1	[('baking soda', -0.6029384769499302), ('in baking soda', -0.6334296930581331)]	['What did The Gas House Gang play ?', 'What explorers followed Columbus to the Americas ?']
+5	5	[('Thomas Jefferson', -0.38449159264564514)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+5	5	[('should a refrigerator be', 0.013921678066253662), ('a refrigerator', -0.33207863569259644)]	['What is the chemical composition of a Barbie ?', 'What is the abbreviation for Original Equipment Manufacturer ?']
+5	5	[('the telephone', -0.10462915897369385)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+1	1	[]	['What did The Gas House Gang play ?', 'What is your favorite color ?']
+4	4	[('the United States', -0.8920989036560059), ('in the United States', -0.9084056951105595)]	['What U.S. state is Mammoth Cave National Park in ?', 'What river is Pocahontas buried along ?']
+2	2	[('is schizophrenia', -0.8569868206977844), ('What is schizophrenia', -0.8947207191959023)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+2	2	[]	['What is a plant supplement ?', 'What is object-oriented design ?']
+2	3	[('Jesse Jackson', -0.6407772116363049)]	"['What did The Gas House Gang play ?', ""Who was Gerald Ford 's vice president ?""]"
+1	1	[]	"[""What characteristics contribute to its `` intelligence '' ?"", 'What explorers followed Columbus to the Americas ?']"
+4	4	[('in Utah', -0.8524066992104053)]	"[""What 's the most popular contact lens color ?"", 'What U.S. state is Mammoth Cave National Park in ?']"
+4	4	[('kill Mountains', -0.8470688462257385), ('the Cats', -0.8513418436050415), ('which state', -0.8540289327502251), ('the Cats kill Mountains', -0.9173406017944217)]	['What U.S. state is Mammoth Cave National Park in ?', 'Define cosmology']
+1	1	[]	['What is the abbreviation for Original Equipment Manufacturer ?', 'What is DSL ?']
+2	2	[('pediatric ians', -0.7982341460883617), ('are pediatric ians', -0.8448190996423364), ('What are pediatric ians', -0.8565689318347722)]	['What did The Gas House Gang play ?', 'What is a neurosurgeon ?']
+3	3	[('ville , Arkansas', -0.31131482124328613), ('on ville , Arkansas', -0.38171930611133575)]	"['What explorers followed Columbus to the Americas ?', ""What characteristics contribute to its `` intelligence '' ?""]"
+2	2	[('solar cells', -0.7717020325362682), ('are solar cells', -0.8146028006449342), ('What are solar cells', -0.8231574097881094)]	['What is a heuristic ?', 'What is object-oriented design ?']
+2	2	[('compounded interest', -0.7553664818406105), ('is compounded interest', -0.7927422365173697), ('What is compounded interest', -0.7998440726660192)]	['What is a heuristic ?', 'What are bear and bull markets ?']
+2	2	[('cap ers', -0.7801370471715927), ('What are cap ers', -0.8358841149602085)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+2	2	[('an antigen', -0.6177673600614071), ('is an antigen', -0.6474714558571577), ('What is an antigen', -0.6527134991483763)]	['What is a heuristic ?', 'What is object-oriented design ?']
+5	1	[('does Luxembourg use', 0.37154266238212585)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+5	5	[('the population', -0.2901487350463867), ('of Venezuela', -0.3503541946411133)]	['How many blacks served in the Vietnam War', 'What are values ?']
+1	1	[('bullet proof v ests', -0.28099551796913147), ('of polymer', -0.37966883182525635), ('What type', -0.38392987847328186), ('bullet proof', -0.4093247950077057)]	"['What molecules include fluorine , sodium and magnesium ?', ""What characteristics contribute to its `` intelligence '' ?""]"
+5	1	[('does Argentina use', 0.23045915365219116)]	['President Bush compared Saddam Hussein to whom ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[('a therm ometer', -0.8161256751045585), ('is a therm ometer', -0.8265941778663546)]	['What is DSL ?', 'What is a handheld PC ?']
+4	4	[('the largest population', -0.8496489003300667), ('has the largest population', -0.8645569337531924)]	['What explorers followed Columbus to the Americas ?', 'What is the brightest star visible from Earth ?']
+5	1	[('are cr ickets', 0.16907769441604614), ('cr ickets', 0.07100269198417664)]	['What is the chemical composition of a Barbie ?', 'President Bush compared Saddam Hussein to whom ?']
+4	4	[('New York', -0.3620343580842018), ('of Liberty', -0.36271626129746437), ('the Statue', -0.37249353155493736), ('the Statue of Liberty', -0.4194805044680834)]	"['What explorers followed Columbus to the Americas ?', ""What country 's royal house is Bourbon-Parma ?""]"
+1	1	[('sent into space', -0.19617873430252075), ('into space', -0.3219798803329468)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+1	1	[('of pure carbon', -0.31966689229011536), ('a form', -0.4144778549671173), ('pure carbon', -0.4245060682296753)]	['What molecules include fluorine , sodium and magnesium ?', 'What is the chemical composition of a Barbie ?']
+1	1	[('in a fluorescent bulb', -0.23437300324440002), ('a fluorescent bulb', -0.286277174949646), ('of gas', -0.3847777843475342), ('What kind', -0.38748055696487427)]	['What molecules include fluorine , sodium and magnesium ?', 'What did The Gas House Gang play ?']
+4	4	[('Rowe , Italy', -0.830398827791214), ('through Rowe , Italy', -0.8521113176830113)]	['What explorers followed Columbus to the Americas ?', 'What are the odds of giving birth to twins ?']
+2	2	[('cerebral pals y', -0.8828162085264921)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+4	4	[('the West', -0.8244815617799759), ('The Gateway', -0.837612196803093), ('to the West', -0.8817866574972868)]	['What is the brightest star visible from Earth ?', 'Define cosmology']
+5	5	[('is the moon', 0.03552210330963135), ('the moon', -0.17464619874954224)]	['What is the brightest star visible from Earth ?', 'When is the Sun closest to the Earth ?']
+2	1	[('natural gas', -0.6731235086917877), ('of natural gas', -0.6958347191102803)]	['What did The Gas House Gang play ?', 'What is the chemical composition of a Barbie ?']
+1	1	[('his historic 1961 flight', 0.254493772983551), ('what spacecraft', -0.03022053837776184)]	['Define cosmology', 'What novel did Ian Fleming introduce James Bond in ?']
+2	2	[('p ect', -0.868577666580677)]	['What is a heuristic ?', 'What is object-oriented design ?']
+2	2	[('bio - d', -0.8978820722550154)]	['What is object-oriented design ?', 'What is object-oriented design ?']
+1	1	[('to remove wallpaper', -0.03561431169509888), ('remove wallpaper', -0.16395676136016846)]	['What explorers followed Columbus to the Americas ?', 'What steps can be taken to prevent diabetes ?']
+5	5	[('start on its journey', 0.0638837218284607), ('on its journey', -0.026852905750274658), ('the Titanic', -0.20247387886047363), ('its journey', -0.2307668924331665)]	['What explorers followed Columbus to the Americas ?', 'President Bush compared Saddam Hussein to whom ?']
+5	5	[('of an apple', -0.08021014928817749), ('is water', -0.3165198564529419), ('an apple', -0.3287666440010071)]	['What is the chemical composition of a Barbie ?', 'Define cosmology']
+3	3	[('of the US', -0.35656172037124634), ('the US', -0.40474051237106323)]	"['Who received the Will Rogers Award in 1989 ?', ""Who played the original Charlie 's Angels ?""]"
+5	1	[('use in Zamb ia', -0.04297587275505066), ('in Zamb ia', -0.10271358489990234), ('Zamb ia', -0.17212256789207458)]	['Define cosmology', 'What is the abbreviation for Original Equipment Manufacturer ?']
+5	5	[('in a mile', -0.07534581422805786), ('How many', -0.28986430168151855), ('a mile', -0.3536819815635681)]	['What is the brightest star visible from Earth ?', 'How many visitors go to the Vatican each year ?']
+1	1	[('of October', -0.14776188135147095)]	['What did The Gas House Gang play ?', 'What explorers followed Columbus to the Americas ?']
+2	2	[]	['What is a heuristic ?', 'What is object-oriented design ?']

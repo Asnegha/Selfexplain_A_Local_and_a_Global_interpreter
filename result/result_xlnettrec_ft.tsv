@@ -1,0 +1,472 @@
+predicted_labels	true_labels	lil_interpretations	gil_interpretations
+5	5	[('from Denver', 4.565715789794922e-05), ('to Aspen', 4.565715789794922e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+4	4	[('Mode s to', 0.00012576580047607422), ('Mode s', -0.00019609928131103516)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+3	3	[('was Galileo', 0.000110626220703125)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[('is an  atom', 0.00010919570922851562), ('an  atom', 9.715557098388672e-05)]	"[""What 's the difference between sleet and freezing rain ?"", 'At what age did Rossini stop writing opera ?']"
+5	5	[('a state', 5.5909156799316406e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+5	5	[('is the Sears Building', 2.47955322265625e-05), ('the Sears Building', 2.47955322265625e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+3	3	[('a small interest', 7.927417755126953e-05), ('in which baseball team', 7.927417755126953e-05), ('which baseball team', 7.927417755126953e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""When was `` the Great Depression '' ?""]"
+1	1	[]	['Who is Nicolo Paganini ?', 'Who is the Antichrist ?']
+2	2	[('turn orange', -0.0002105236053466797)]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+2	2	[]	['How many years is Johnnie Walker Black Label aged ?', 'At what age did Rossini stop writing opera ?']
+4	4	[('a world fair', 9.1552734375e-05), ('in 1900', -0.00015205144882202148)]	['Who was Thucydides ?', 'Who is the Antichrist ?']
+3	3	"[("" ' s head"", 1.823902130126953e-05), ('is on a dime', 1.823902130126953e-05), ('on a dime', 1.823902130126953e-05), ('a dime', 1.811981201171875e-05)]"	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+5	5	[('of a Yellow Labrador', 2.2530555725097656e-05), ('a Yellow Labrador', 2.2530555725097656e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+3	3	[('across the Pacific Ocean', 3.3855438232421875e-05), ('the Pacific Ocean', 3.3855438232421875e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+5	5	[('a state', 5.638599395751953e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+5	5	[('for cricket s', 3.0040740966796875e-05), ('cricket s', 2.86102294921875e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+1	1	[('the highest melting point', 0.00028377771377563477)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+3	3	[('the vaccination', 7.87973403930664e-05), ('against polio', 7.87973403930664e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[('is epilepsy', -0.0007514357566833496)]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+5	5	[('the  Titanic', 6.794929504394531e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+3	3	[('to walk in space', 1.1205673217773438e-05), ('walk in space', 1.1205673217773438e-05), ('in space', 1.1086463928222656e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[('is a bi osphere', 0.00011730194091796875), ('a bi osphere', 0.00010597705841064453)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+4	4	[('the Big M uddy', 9.191036224365234e-05), ('in the US', 7.95125961303711e-05), ('the US', -0.00039136409759521484), ('Big M', -0.0005174875259399414)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+2	2	[('is bipolar disorder', 9.644031524658203e-05), ('bipolar disorder', -0.001130819320678711)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[('is cholesterol', -0.0009086728096008301)]	['How many years is Johnnie Walker Black Label aged ?', 'At what age did Rossini stop writing opera ?']
+3	3	[('developed the Macintosh computer', 4.57763671875e-05), ('the Macintosh computer', 4.57763671875e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[('is caffeine', -0.0006756186485290527)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+4	4	[('North and South Pole', -0.026971042156219482), ('North and South', -0.06776207685470581)]	['Name the Islamic counterpart to the Red Cross', 'Who is the Antichrist ?']
+4	4	[('John Wayne airport', 0.00013875961303710938), ('John Wayne', -0.00038117170333862305)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+4	4	[('is the Philippines in', 0.00012183189392089844), ('the Philippines', -0.00013190507888793945)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+5	5	[('of the horses', 1.5020370483398438e-05), ('at the Kentucky Derby', 1.5020370483398438e-05), ('the Kentucky Derby', 1.5020370483398438e-05), ('the horses', 1.3947486877441406e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+4	4	[('the Rocky Mountains', 0.00016874074935913086)]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+2	2	[('in vertebrate s', 0.00011909008026123047), ('vertebrate s', -0.0008413791656494141)]	"['At what age did Rossini stop writing opera ?', ""What 's the difference between sleet and freezing rain ?""]"
+5	5	[('of the earth', 3.2067298889160156e-05), ('the center', 2.968311309814453e-05), ('the earth', 2.968311309814453e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+5	5	[('get elected as President', 1.2636184692382812e-05), ('elected as President', 1.2636184692382812e-05), ('as President', 1.1444091796875e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+5	5	[('when he died', 2.5033950805664062e-05), ('Elvis Presley', 2.4080276489257812e-05), ('he died', 2.4080276489257812e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+5	5	[('the service line', 1.537799835205078e-05), ('from the net', 1.537799835205078e-05), ('in tennis', 1.4424324035644531e-05), ('the net', 1.4185905456542969e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+5	5	[('have per day', 2.9087066650390625e-05), ('per day', 2.8252601623535156e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+5	5	[('are there', 2.968311309814453e-05), ('How many', 2.956390380859375e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+1	1	[('made from what plant', 7.30752944946289e-05), ('from what plant', 7.18832015991211e-05), ('what plant', -3.552436828613281e-05), ('called linen', -6.556510925292969e-05)]	"[""What 's the singular of dice ?"", 'Who is the Pope ?']"
+2	2	[('Te f lon', 0.0006281137466430664)]	['How many years is Johnnie Walker Black Label aged ?', 'At what age did Rossini stop writing opera ?']
+2	2	[('is a shaman', 8.416175842285156e-05), ('a shaman', -0.0007270574569702148)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+1	1	[]	['Who is Nicolo Paganini ?', 'Who is Edmund Kemper ?']
+1	1	[('of turkey s', 0.00018447637557983398), ('turkey s', 2.855062484741211e-05)]	['Who is Nicolo Paganini ?', 'Who is the Antichrist ?']
+5	5	[('Rip Van Win kle', 4.2319297790527344e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[]	['How many years is Johnnie Walker Black Label aged ?', 'At what age did Rossini stop writing opera ?']
+5	5	[('in a gallon', 3.5881996154785156e-05), ('a gallon', 3.504753112792969e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+3	3	[('the chocolate company', 4.792213439941406e-05), ('in San Francisco', 4.792213439941406e-05), ('San Francisco', 4.756450653076172e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[('amphibian s', -0.0010643601417541504)]	"[""What 's the difference between sleet and freezing rain ?"", 'At what age did Rossini stop writing opera ?']"
+3	3	[('x - ray', 6.902217864990234e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+3	3	[('Can we talk', 9.119510650634766e-05)]	"['What North American city sprouts the most parking meters ?', ""Who directed `` Jaws '' ?""]"
+2	2	[('worn or outdated', 0.00011146068572998047)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+0	2	[('in engines', 0.13835304975509644), (' cc', 0.1382090449333191)]	['How did U.S.A become involved in the Barbary Wars', 'How many years is Johnnie Walker Black Label aged ?']
+5	5	[('Elvis Presley', 4.3511390686035156e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+4	4	[('the capital', -0.00010079145431518555), ('of Yugoslavia', -0.00015467405319213867)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+4	4	[]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+5	5	[('humming birds fly', 2.658367156982422e-05), ('humming birds', 2.3365020751953125e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+4	4	[('in the United States', 8.392333984375e-05), ('the United States', 8.14199447631836e-05)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+4	4	[('Moor head', -0.00164794921875), ('North Dakota', -0.0016681551933288574)]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+1	1	[('bat s', 0.00016051530838012695)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+4	4	[('take place in', 5.3882598876953125e-05), ('of Big horn', 5.3048133850097656e-05), ('Big horn', -0.00013965368270874023), ('the Battle', -0.00019663572311401367)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+3	3	[('was Abraham Lincoln', 5.424022674560547e-05), ('Abraham Lincoln', 5.4001808166503906e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[('spider veins', -0.0005409717559814453)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+5	5	[('did John Lennon die', 2.3484230041503906e-05), ('John Lennon', 2.205371856689453e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+4	4	[('s North America', 0.00010228157043457031), ('from Asia', -0.0012046098709106445), ('North America', -0.0012059211730957031)]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+5	5	[('the population', 4.4226646423339844e-05), ('of Seattle', 4.398822784423828e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+5	5	[('for the  Titanic', 2.849102020263672e-05), ('the  Titanic', 2.849102020263672e-05), ('a ticket', 2.753734588623047e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+4	4	[('in the world', 0.00012624263763427734), ('the world', -0.00011998414993286133)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+3	3	[('West Side Story', 6.0439109802246094e-05), ('the music', 6.020069122314453e-05), ('West Side', 6.008148193359375e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+4	4	[('of the America', 0.0001894831657409668), ('the America', -0.0008276700973510742)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+0	2	[('the pH scale', -0.5051558911800385), ('is the pH scale', -0.5732284486293793)]	"[""What did Delilah do to Samson 's hair ?"", 'How many furlongs are there in a mile-and-a-quarter recetrack ?']"
+1	1	[('is used in Australia', 7.998943328857422e-05), ('used in Australia', 7.808208465576172e-05), ('in Australia', -7.331371307373047e-05), ('What type', -8.33272933959961e-05), ('of currency', -0.00010031461715698242)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+5	5	[('the Gateway Arch', 4.1604042053222656e-05), ('St . Louis', 4.1604042053222656e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+5	5	[]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+3	3	[('of Alaska', 0.00010192394256591797)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[('a pr ism', 0.00014591217041015625)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+5	5	[]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+3	3	[('president of South Africa', 2.8133392333984375e-05), ('of South Africa', 2.8133392333984375e-05), ('South Africa', 2.7894973754882812e-05), ('in 1994', 2.7894973754882812e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+5	5	[('the population', 4.2557716369628906e-05), ('of China', 4.2557716369628906e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+5	5	[('Rosa Parks', 5.4001808166503906e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[]	['How many years is Johnnie Walker Black Label aged ?', 'At what age did Rossini stop writing opera ?']
+3	3	[]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+4	4	[('P once de Leon', 3.8623809814453125e-05), ('de Leon', -0.00010001659393310547), ('come from', -0.00011289119720458984)]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+5	1	[('during which war', 0.13652873039245605), ('which war', 0.10608279705047607), ('paper currency', 0.006958484649658203)]	['Who is Samuel Pickering ?', 'Where is Burma ?']
+2	2	[('is desktop publishing', 0.00011038780212402344), ('desktop publishing', -0.00027567148208618164)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+5	5	[]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+5	5	[('join the United Nations', 2.0384788513183594e-05), ('the United Nations', 2.0384788513183594e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+3	3	[('in the US', 0.00032258033752441406), ('the US', 0.0003203153610229492)]	"[""Who directed `` Jaws '' ?"", 'Who is Samuel Pickering ?']"
+4	4	[('Prince Edward Island', 7.522106170654297e-05), ('Prince Edward', -0.0003924369812011719)]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+5	5	[('was it discovered', 4.6133995056152344e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[('cry ogenic s', 0.00015294551849365234)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[('coral reef s', 0.00010353326797485352)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+5	1	[('baseball - winning', 4.7326087951660156e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[('is neuro logy', 0.00011396408081054688), ('neuro logy', -0.0006830096244812012)]	['How many years is Johnnie Walker Black Label aged ?', 'At what age did Rossini stop writing opera ?']
+3	3	[('invented the calculator', 5.7697296142578125e-05), ('the calculator', 5.745887756347656e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[('earthquake s', -0.0013786554336547852)]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+3	3	[('is Duke El lington', 3.457069396972656e-05), ('Duke El lington', 3.457069396972656e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+4	4	[(' AZ', -0.0001469254493713379)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+2	2	[('a micro n', 0.00013196468353271484)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+5	5	[('is the temperature', 3.254413604736328e-05), ('the temperature', 2.9921531677246094e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+1	1	[]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+4	4	[]	['Who was Thucydides ?', 'Who is the Antichrist ?']
+1	1	[('a poison arrow frog', 0.00019747018814086914), ('poison arrow', -4.863739013671875e-05)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+2	2	[('is acupuncture', -0.0006403326988220215)]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+5	5	[('the state of Alaska', 4.0531158447265625e-05), ('the coastline', 3.3855438232421875e-05), ('of Alaska', 2.968311309814453e-05), ('the state', 2.6464462280273438e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+3	3	[]	['Who came up with the name , El Nino ?', 'Who is Samuel Pickering ?']
+1	1	[]	['Who is Nicolo Paganini ?', 'Who is the Antichrist ?']
+3	3	[('in 1989', 9.799003601074219e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+5	5	[]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+1	1	[('helps prevent osteoporosis', 0.00016355514526367188), ('prevent osteoporosis', -5.894899368286133e-05)]	"[""What 's the singular of dice ?"", 'Who is Nicolo Paganini ?']"
+5	5	[('the Chicago Cubs', 3.719329833984375e-05), ('won the World Series', 3.719329833984375e-05), ('the World Series', 3.719329833984375e-05)]	"['How many furlongs are there in a mile-and-a-quarter recetrack ?', ""What does the term `` spaghetti western '' mean ?""]"
+4	4	[]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+5	5	[('did WWII begin', 7.152557373046875e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+5	5	[('of a golf ball', 3.7789344787597656e-05), ('a golf ball', 3.7789344787597656e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+2	2	[('is an eclipse', 0.00012218952178955078), ('an eclipse', -0.000594794750213623)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+3	3	[('discovered America', 0.00011134147644042969)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+3	3	[('was unmarried', 9.512901306152344e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+5	5	[('Milk y Way', 5.984306335449219e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+5	5	[('most thunderstorm s', 5.1975250244140625e-05), ('which season', 5.066394805908203e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[]	['How many years is Johnnie Walker Black Label aged ?', 'At what age did Rossini stop writing opera ?']
+5	5	[('for a cat', 4.2438507080078125e-05), ('a cat', 4.0411949157714844e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+5	5	[('is a nautical mile', 3.3736228942871094e-05), ('a nautical mile', 3.3736228942871094e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+3	3	"[(""Harper  ' s"", 3.3736228942871094e-05), ('the abolition', 3.349781036376953e-05), ('the raid', 3.349781036376953e-05), ('in 1859', 3.349781036376953e-05)]"	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[]	"['How many years is Johnnie Walker Black Label aged ?', ""What function does a community 's water tower serve ?""]"
+1	1	[('to go into space', 8.022785186767578e-05), ('go into space', 7.581710815429688e-05), ('into space', -0.00010520219802856445)]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+2	2	[('is foreclosure', -0.000330507755279541)]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+4	1	[('near Kentucky', -0.0006196498870849609)]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+4	4	[('the Holland Tunnel', 8.487701416015625e-05)]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+3	3	[(' Amazing Grace', 7.939338684082031e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+3	3	[('play in baseball', 5.91278076171875e-05), ('Willie Davis', 5.888938903808594e-05), ('in baseball', 5.8770179748535156e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[('plate lets', -0.0005193948745727539)]	"[""What 's the difference between sleet and freezing rain ?"", 'At what age did Rossini stop writing opera ?']"
+2	2	[('is severance pay', -0.5521894693374634), ('severance pay', -0.5825988948345184)]	['How many years is Johnnie Walker Black Label aged ?', 'How many points is a bullseye worth in darts ?']
+1	1	[]	['Who is Nicolo Paganini ?', 'Who is Edmund Kemper ?']
+4	4	[('the National Archives', 9.989738464355469e-05)]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+1	1	[]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+1	1	[('in the human body', 0.0013039708137512207), ('the human body', 0.0012950301170349121)]	['Who is Nicolo Paganini ?', 'Who is the Antichrist ?']
+3	3	[('is a German philosopher', 2.1219253540039062e-05), ('a German philosopher', 2.1219253540039062e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+1	1	[('Christopher Columbus ', 0.0001291036605834961)]	['Who is Nicolo Paganini ?', 'Who is the Antichrist ?']
+2	2	[]	['How many years is Johnnie Walker Black Label aged ?', 'At what age did Rossini stop writing opera ?']
+2	2	[('is nicotine', -0.0006483793258666992)]	"[""What 's the difference between sleet and freezing rain ?"", 'At what age did Rossini stop writing opera ?']"
+1	1	[('for vitamin B 1', 0.00022155046463012695), ('vitamin B 1', 0.00020772218704223633)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+3	3	[('discovered  ra dium', 3.409385681152344e-05), (' ra dium', 3.409385681152344e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[('sun spot s', 9.274482727050781e-05), ('sun spot', -0.0005266070365905762)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+5	5	[('colon ized', 4.756450653076172e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+3	3	[('part of their uniform', 1.919269561767578e-05), ('of their uniform', 1.919269561767578e-05), ('the first', 1.9073486328125e-05), ('their uniform', 1.9073486328125e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+4	4	[('is Egypt on', 0.00015413761138916016)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+4	4	[('the capital', -0.00012797117233276367), ('of Mongolia', -0.00019359588623046875)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+2	2	[('nano technology', -0.0005271434783935547)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+4	4	[('which colony', -0.113910973072052)]	['Who is the Antichrist ?', 'Who is Samuel Pickering ?']
+4	4	[('the lower 48 states', 0.0001024007797241211), ('the geographic center', 9.608268737792969e-05)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+2	2	[('ob t use', 4.07099723815918e-05)]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+2	2	[(' polymer s', 0.00021201372146606445)]	['At what age did Rossini stop writing opera ?', 'How many years is Johnnie Walker Black Label aged ?']
+5	5	[('in the Caribbean', 4.112720489501953e-05), ('the Caribbean', 3.9577484130859375e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+4	4	[('Mau na Lo a', 0.00015783309936523438)]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+1	1	[]	"[""What 's the slowest Olympic swimming stroke ?"", ""What 's the singular of dice ?""]"
+4	4	[('is Spain part of', 0.00010919570922851562), ('part of', -0.0002473592758178711)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+5	5	[]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+4	4	[('the least amount', 0.00023227930068969727), ('per year', -0.0005794167518615723), ('of rain', -0.0017355680465698242)]	['Who was Thucydides ?', 'Who is the Antichrist ?']
+3	3	[('founded American Red Cross', 3.552436828613281e-05), ('American Red Cross', 3.552436828613281e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+5	5	[('the Milwaukee Braves', 1.7881393432617188e-05), ('become the Atlanta Braves', 1.7881393432617188e-05), ('the Atlanta Braves', 1.7881393432617188e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+5	5	[('is alcohol absorbed', 4.935264587402344e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[('is super nova', 0.00010275840759277344), ('super nova', -0.00041419267654418945)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+4	4	[]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+4	4	[('Live free or Die', 0.0003097057342529297), ('Live free', -0.0002295374870300293)]	['Who is the Antichrist ?', 'Who was Thucydides ?']
+4	4	[]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+5	5	[]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+1	1	[('mix to make orange', 9.679794311523438e-05), ('to make orange', 8.83340835571289e-05), ('make orange', -0.0003679990768432617)]	"[""What 's the singular of dice ?"", 'Who is Nicolo Paganini ?']"
+5	5	[('from the sun', 3.6835670471191406e-05), ('the sun', 3.5643577575683594e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+4	4	[('the Canary Islands', 9.691715240478516e-05), ('What body', -0.0004686117172241211), ('of water', -0.0005142092704772949)]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+2	2	[('is neuro pathy', 9.238719940185547e-05), ('neuro pathy', -0.0007020831108093262)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+4	4	[('rates River', -0.00046378374099731445)]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+2	2	[(' crypt ography', 0.0006349086761474609)]	['How many years is Johnnie Walker Black Label aged ?', 'At what age did Rossini stop writing opera ?']
+1	1	[('composed of', 0.0003458261489868164)]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+3	3	[('of Canada', 0.0001055002212524414)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+3	3	[('the battle of Waterloo', 4.076957702636719e-05), ('the battle', 4.0531158447265625e-05), ('of Waterloo', 4.0531158447265625e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[('is leukemia', -0.0006379485130310059)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+4	4	[('Howard Hughes', -0.0005939602851867676)]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+1	1	[('for June', 0.0010019540786743164)]	['Who is the Pope ?', 'Who is the Antichrist ?']
+5	1	[('in Minnesota', 0.0002549886703491211)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+5	5	[('from the earth', 2.181529998779297e-05), ('to the sun', 2.181529998779297e-05), ('in miles', 1.9788742065429688e-05), ('the sun', 1.9669532775878906e-05), ('the earth', 1.9431114196777344e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+5	5	[('for a chicken', 3.349781036376953e-05), ('a chicken', 3.2067298889160156e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+5	5	[]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[('is relative humidity', 0.00013554096221923828), ('relative humidity', -0.0003725886344909668)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+4	4	[('of 35 8 24', 6.449222564697266e-05), ('35 8 24', 5.936622619628906e-05), ('the zip code', 5.900859832763672e-05)]	['Who was Thucydides ?', 'Who is the Antichrist ?']
+1	1	[('is used in Algeria', 0.0001614093780517578), ('used in Algeria', 0.00015723705291748047), ('in Algeria', -0.00010114908218383789)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+1	1	[('in 1957', 2.5033950805664062e-05), ('to y', -9.417533874511719e-06), ('most popular', -1.5139579772949219e-05)]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+1	1	[('i made of', 0.00022965669631958008), ('made of', 0.00017446279525756836)]	['Who is the Antichrist ?', 'Who is the Pope ?']
+1	1	[('the Soviet Union', 0.00021272897720336914), ('in 1957', -8.225440979003906e-06), ('into space', -4.172325134277344e-05), ('the satellite', -5.066394805908203e-05)]	['Who is Nicolo Paganini ?', 'Who is the Antichrist ?']
+4	4	"[("" ' s"", 0.00021725893020629883)]"	['Who was Thucydides ?', 'Who is the Antichrist ?']
+1	1	[('have backbone s called', 7.271766662597656e-05), ('backbone s called', 7.045269012451172e-05), ('backbone s', -0.00011485815048217773)]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+5	5	[('of copper', -0.0046610236167907715)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'In a computer , what does SCSI mean ?']
+4	4	[('Olympus Mon s', 0.00011682510375976562)]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+3	3	[('of the United States', 1.7404556274414062e-05), ('the United States', 1.7404556274414062e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+5	5	[]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+2	2	[('of acid rain', 5.0187110900878906e-05), ('acid rain', -0.0020393729209899902)]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+5	5	[('the United States', 1.5020370483398438e-05), ('abolish the draft', 1.5020370483398438e-05), ('the draft', 1.3470649719238281e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+5	5	[('the speed of light', 1.2993812561035156e-05), ('the speed', 1.2040138244628906e-05), ('of light', 1.1920928955078125e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+4	4	[('is Montreal in', 0.00011420249938964844)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+4	4	[('the Twin Tower s', 0.0001004934310913086), ('New York', -0.0014709234237670898)]	['Who was Thucydides ?', 'Who is the Antichrist ?']
+2	2	[('is fungus', -0.0008238554000854492)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+1	1	[('in the Netherlands', 0.0004380345344543457), ('the Netherlands', 0.0003120303153991699), ('most frequently', 0.00029009580612182617)]	['Who is Nicolo Paganini ?', 'Who is the Antichrist ?']
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+1	1	[('on domino es', 0.4401891231536865), ('domino es', 0.4400637149810791)]	['Who is the Antichrist ?', 'Who is Nicolo Paganini ?']
+5	5	[('in a  ton', 8.463859558105469e-06), ('a  ton', 8.463859558105469e-06), ('How many', 7.62939453125e-06)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'At what age did Rossini stop writing opera ?']"
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+5	5	[('the Mona Lisa', 5.14984130859375e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[('Sitting Shiva', -0.00016051530838012695)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+1	1	[('Madrid  , Spain', 0.007533013820648193)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many bytes are in a terabyte ?']"
+4	4	[('in North America', 5.424022674560547e-05), ('North America', -0.0003820061683654785), ('from Maine', -0.00048285722732543945), ('to Georgia', -0.0005491971969604492)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+1	1	[('made of', 0.00011986494064331055)]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+5	5	[('the population', 3.0994415283203125e-05), ('of Nigeria', 3.0875205993652344e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+4	4	[('the Grand Canyon', 0.00010919570922851562)]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+3	3	[('invented the telephone', 5.221366882324219e-05), ('the telephone', 5.1975250244140625e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+5	5	[('buy Alaska', 6.306171417236328e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+3	3	[('the leader of Ireland', 3.921985626220703e-05), ('of Ireland', 3.910064697265625e-05), ('the leader', 3.898143768310547e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+5	5	[('in a cubic foot', 1.0371208190917969e-05), ('a cubic foot', 1.0371208190917969e-05), ('How many', 9.5367431640625e-06), ('of water', 9.5367431640625e-06)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+3	1	[('of the Legislative branch', 0.0007003545761108398), ('the Legislative branch', 0.0007003545761108398)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""When was `` the Great Depression '' ?""]"
+2	2	[('son ar', -0.0004616975784301758)]	['At what age did Rossini stop writing opera ?', 'How many years is Johnnie Walker Black Label aged ?']
+4	4	[('do most people live', 0.00025528669357299805), ('most people', -0.001063227653503418)]	['Who was Thucydides ?', 'Who is the Antichrist ?']
+2	2	[('is phosphorus', -0.0007389187812805176)]	['How many years is Johnnie Walker Black Label aged ?', 'At what age did Rossini stop writing opera ?']
+4	4	[('of Tran qu ility', 9.548664093017578e-05), ('Tran qu ility', 7.832050323486328e-05), ('the Sea', -0.0005465149879455566)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+5	5	[('is sound', 7.152557373046875e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+4	4	[('produced in', -0.01559901237487793), (' cog nac', -0.9893171386793256)]	['Who was Thucydides ?', 'Who is Samuel Pickering ?']
+5	2	[]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+2	2	[('causes gray hair', 3.5881996154785156e-05), ('gray hair', -0.0014545321464538574)]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+2	2	[('is hypertension', -0.0005224347114562988)]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+2	2	[('is bandwidth', -0.0003771781921386719)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+4	4	[]	['Who was Thucydides ?', 'Who is the Antichrist ?']
+2	2	[('is a parasite', 0.00010538101196289062), ('a parasite', -0.0008668303489685059)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[('is home equity', 0.00025916099548339844), ('home equity', -0.002059459686279297)]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+2	2	[('meteorologist s', -0.00015532970428466797)]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+2	1	[('for being legally blind', 0.00015354156494140625), ('being legally blind', 0.00011467933654785156), ('legally blind', -0.001055896282196045)]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+3	3	[('in the world', 5.519390106201172e-05), ('the world', 5.507469177246094e-05)]	"[""Who directed `` Jaws '' ?"", ""What wrestling star became `` The Incredible Hulk '' ?""]"
+4	4	[('the twin cities', 0.0001251697540283203)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+1	1	[('in 1903', -3.653764724731445e-05), ('in vent', -6.181001663208008e-05), ('Howard Smith', -0.00010269880294799805)]	['Who is Nicolo Paganini ?', 'What 2th-century fictional character attends Pencey Prep School ?']
+1	1	[('the statue', -8.14199447631836e-05), ('made of', -0.00014168024063110352), ('of liberty', -0.00020205974578857422)]	['Who is Nicolo Paganini ?', 'Who is the Antichrist ?']
+2	2	[(' pil ates', 0.0001716017723083496)]	"['At what age did Rossini stop writing opera ?', ""What 's the difference between sleet and freezing rain ?""]"
+4	4	[]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+5	5	[('of the Nile river', 8.463859558105469e-05), ('the Nile river', 8.45193862915039e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+5	5	[]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+3	3	[('for the Brooklyn Dodgers', 2.9921531677246094e-05), ('the Brooklyn Dodgers', 2.9921531677246094e-05)]	"[""Who directed `` Jaws '' ?"", 'What North American city sprouts the most parking meters ?']"
+3	3	[('of Canada', 6.866455078125e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+5	5	[('How many', 4.684925079345703e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+1	1	[('did Glenn Miller play', 0.00013124942779541016), ('Glenn Miller', -3.540515899658203e-05)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+5	5	[('Joan of Arc', 1.4662742614746094e-05), ('when she died', 1.4662742614746094e-05), ('of Arc', 1.3589859008789062e-05), ('she died', 1.3589859008789062e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+4	4	[('the capital', -0.00016897916793823242), ('of Ethiopia', -0.0002257823944091797)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+5	5	[('is an elephant pregnant', 1.728534698486328e-05), ('how long', 1.633167266845703e-05), ('an elephant', 1.633167266845703e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+1	1	[('in Iceland', 0.0009337067604064941)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+2	2	[('AM radio stations', 0.00011360645294189453), ('FM radio stations', 9.381771087646484e-05)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[('is osteoporosis', -0.0006474852561950684)]	['How many years is Johnnie Walker Black Label aged ?', 'At what age did Rossini stop writing opera ?']
+3	3	[]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+5	5	[('become a state', 3.1113624572753906e-05), ('a state', 3.0159950256347656e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+0	0	[('for Texas', -0.0003116130828857422), ('the abbreviation', -0.0003559589385986328)]	['What is a person called that likes fire ?', 'What is a person called that likes fire ?']
+1	1	[('made out of', 0.00019675493240356445), ('out of', -0.00014728307723999023)]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+4	4	[('on the body', -0.012246966361999512), ('the body', -0.03913438320159912), ('a mortar board', -0.7977043241262436)]	['Who is Samuel Pickering ?', 'Who is the Antichrist ?']
+0	0	[('stand for', -0.00016939640045166016)]	['What is a person called that likes fire ?', 'What is a person called that likes fire ?']
+4	4	[]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+4	4	[]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+2	1	[('foot and mouth', 8.177757263183594e-05)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+5	5	[('of a dollar bill', 2.110004425048828e-05), ('a dollar bill', 2.110004425048828e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+1	1	[('a professional map drawer', 0.000827789306640625)]	"['Who is Nicolo Paganini ?', ""What 's the slowest Olympic swimming stroke ?""]"
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'At what age did Rossini stop writing opera ?']"
+2	2	[('is hybrid ization', 0.00011539459228515625), ('hybrid ization', -0.0006890296936035156)]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+1	1	[('is in d igo', 0.00012934207916259766), ('in d igo', 0.0001277923583984375), ('d igo', -1.9431114196777344e-05)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+5	5	[('to be', 1.990795135498047e-05), ('a car', 1.990795135498047e-05), ('in Italy', 1.990795135498047e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+1	1	[('a barometer', -3.123283386230469e-05)]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+1	1	[]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+0	0	[('stand for', -2.7477741241455078e-05)]	['What is a person called that likes fire ?', 'What is a person called that likes fire ?']
+5	5	[('go on strike', 2.658367156982422e-05), ('the NFL', 2.5153160095214844e-05), ('on strike', 2.5033950805664062e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[('is solar wind', 0.00011229515075683594), ('solar wind', -0.0005074143409729004)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+5	5	[('land on the moon', 1.3470649719238281e-05), ('on the moon', 1.3470649719238281e-05), ('the moon', 1.2278556823730469e-05), ('Neil Armstrong', 1.2159347534179688e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+5	5	[]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+4	4	[('the Savannah River', 0.00013148784637451172)]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+3	3	[('in the Vietnam War', 3.802776336669922e-05), ('the Vietnam War', 3.802776336669922e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+4	4	[('of all the planets', 7.18832015991211e-05), ('the strongest magnetic field', 7.164478302001953e-05), ('all the planets', 5.221366882324219e-05)]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+3	3	[('the governor', 5.924701690673828e-05), ('of Alaska', 5.924701690673828e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+5	5	[('Mus sol ini', 1.9788742065429688e-05), ('seize power in Italy', 1.9788742065429688e-05), ('in Italy', 1.823902130126953e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+4	4	[('of Persi a', 0.00012636184692382812), ('Persi a', -0.00030153989791870117)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+5	5	[('How many', 5.2809715270996094e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[('is pneumonia', -0.0006083250045776367)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+4	4	[('in the US', 0.00011551380157470703), ('the US', -0.0002435445785522461)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+2	2	[('is a fuel cell', 0.0001100301742553711), ('a fuel cell', 9.870529174804688e-05)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+3	3	[('to appear on TV', 1.0848045349121094e-05), ('appear on TV', 1.0848045349121094e-05), ('on TV', 1.0609626770019531e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+4	4	[('Little League', -0.0003437995910644531)]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+1	1	[('of twins', 0.00019752979278564453)]	['Who is Nicolo Paganini ?', 'Who is Edmund Kemper ?']
+4	4	[('is the brightest star', 0.0004985332489013672), ('the brightest star', -0.0014548897743225098)]	['Who is the Antichrist ?', 'Who is Samuel Pickering ?']
+2	2	[]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+5	5	[('President Kennedy', 4.410743713378906e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+0	0	[(' TM J', 0.00032913684844970703)]	['Who told all in Ball Four ?', 'What two countries are separated by the Bering Strait ?']
+1	1	[(' y ak milk', 0.00026172399520874023)]	['Who is Nicolo Paganini ?', 'Who is the Antichrist ?']
+5	5	[('Dwight D . Eisenhower', 2.2411346435546875e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+0	0	[('I S DN', 0.0003603696823120117)]	['Who told all in Ball Four ?', 'What two countries are separated by the Bering Strait ?']
+2	2	[('the sun', -0.000731050968170166)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+5	5	[('between dollars and pounds', 9.059906005859375e-06), ('dollars and pounds', 9.059906005859375e-06)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+5	5	[('Abraham Lincoln', 2.014636993408203e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[('is mold', -0.0006737112998962402)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+5	5	[('was Mozart born', 3.039836883544922e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+1	1	[('of frog s', 0.00010073184967041016), ('frog s', -1.3828277587890625e-05)]	['Who is Nicolo Paganini ?', 'Who is the Antichrist ?']
+1	1	[]	['Who is Nicolo Paganini ?', 'Who is the Antichrist ?']
+5	5	[('of gold', -0.023892641067504883)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'In a computer , what does SCSI mean ?']
+4	4	[('of the White House', 7.796287536621094e-05), ('the White House', -6.80685043334961e-05)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+1	1	[('Mel ba sauce', 0.00010800361633300781), ('made from', 6.198883056640625e-06)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+2	2	[('Ur sa Major', 0.0003006458282470703)]	['At what age did Rossini stop writing opera ?', 'How many years is Johnnie Walker Black Label aged ?']
+5	5	[('of water content', 1.0609626770019531e-05), ('in the human body', 1.0609626770019531e-05), ('the human body', 1.0609626770019531e-05), ('water content', 9.5367431640625e-06)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+5	5	[('does water weigh', 5.3048133850097656e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+1	1	[]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+5	5	[('Windsor  , Ontario', 3.8743019104003906e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+3	3	[]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+5	5	[('the population', 3.135204315185547e-05), ('of Australia', 3.123283386230469e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+3	3	[('Si s tine', 9.97781753540039e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+1	1	[('a stimulant', -5.53131103515625e-05)]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+2	2	[('on the climate', 2.6226043701171875e-05), ('of volcano es', -1.1324882507324219e-05), ('the climate', -0.0017064809799194336), ('volcano es', -0.0021808743476867676)]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+5	5	[('the Andy Griffith show', 3.1948089599609375e-05), ('Andy Griffith', 3.063678741455078e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[('is acid rain', 9.453296661376953e-05), ('acid rain', -0.0004706382751464844)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+5	5	"[(""Mexico  ' s"", 4.673004150390625e-05)]"	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+4	4	[('of Lake Cham plain', 7.045269012451172e-05), ('Lake Cham plain', 5.614757537841797e-05), ('Lake Cham', -0.0005282163619995117)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+1	1	[]	['Who is Nicolo Paganini ?', 'Who is the Antichrist ?']
+1	1	[]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+2	2	[('is quick silver', 0.00012183189392089844), ('quick silver', -0.0005354881286621094)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+3	3	[]	"[""Who directed `` Jaws '' ?"", ""What wrestling star became `` The Incredible Hulk '' ?""]"
+5	5	[('the speed', 4.506111145019531e-05), ('of light', 4.506111145019531e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+5	5	[('of a football field', 4.112720489501953e-05), ('a football field', 4.112720489501953e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[('called love', -0.00034546852111816406), ('zero points', -0.0006094574928283691)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+1	1	[('the  Wizard', 0.00010061264038085938), ('What kind', -7.033348083496094e-06), ('of dog', -1.704692840576172e-05), ('To to', -4.3272972106933594e-05), ('of Oz', -5.0067901611328125e-05)]	"[""What 's the singular of dice ?"", 'Who is Nicolo Paganini ?']"
+2	2	[('is a thy roid', 0.00014710426330566406), ('a thy roid', 0.00011754035949707031)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[]	['How many years is Johnnie Walker Black Label aged ?', 'At what age did Rossini stop writing opera ?']
+4	1	[('to the lungs', -0.0363922119140625), ('the lungs', -0.06379097700119019), ('the heart', -0.12573647499084473), ('from the heart', -0.16260772943496704), ('blue blood', -0.31335246562957764)]	['Who is the Antichrist ?', 'Who was Thucydides ?']
+5	5	[('Old Faith ful', 2.9921531677246094e-05), ('at Yellowstone National Park', 2.9921531677246094e-05), ('Yellowstone National Park', 2.9921531677246094e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+4	5	[('St . Louis', 0.01155620813369751)]	['Who is the Antichrist ?', 'Who invented the road traffic cone ?']
+1	1	[('with a strong acid', 0.00022810697555541992), ('lit mus paper', 0.0002238154411315918), ('a strong acid', 0.0002232193946838379)]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+1	1	[('of the German flag', 0.0002327561378479004), ('the German flag', 0.00022286176681518555)]	['Who is Nicolo Paganini ?', 'Who is the Antichrist ?']
+2	2	[('the Moul', -0.0002735257148742676), ('in Rouge', -0.00038951635360717773)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+4	4	[('on the Black Sea', 0.000141143798828125), ('the Black Sea', 0.00012362003326416016)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+5	5	[('of silver', 5.745887756347656e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+1	1	[('use in Brazil', 0.0003361701965332031), ('in Brazil', -0.0006641149520874023)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+2	2	[('pathogen s', -0.0011879801750183105)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[('mad cow disease', 9.262561798095703e-05), ('mad cow', -0.0003540515899658203)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+1	1	[('high in zinc', 0.00016129016876220703), ('in zinc', 1.9669532775878906e-05)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+5	5	[('enter the union', 3.898143768310547e-05), ('the union', 3.7550926208496094e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+4	4	[]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+2	2	[('are ethics', -0.0005317330360412598)]	['How many years is Johnnie Walker Black Label aged ?', 'At what age did Rossini stop writing opera ?']
+0	0	[('stand for', -0.00028884410858154297)]	['What is a person called that likes fire ?', 'What is a person called that likes fire ?']
+2	2	[('is an annuity', 0.00013875961303710938), ('an annuity', -0.0007210373878479004)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+3	3	[]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+3	3	[]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+1	1	[('is turquoise', 0.00023299455642700195)]	['What 2th-century fictional character attends Pencey Prep School ?', 'Who is the Pope ?']
+3	3	[('in an automobile', 1.6689300537109375e-05), ('to his inauguration', 1.6689300537109375e-05), ('an automobile', 1.6570091247558594e-05), ('his inauguration', 1.6570091247558594e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+5	5	[('the youngest president', 1.4901161193847656e-05), ('of the United States', 1.4901161193847656e-05), ('the United States', 1.4901161193847656e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+3	3	[]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[('is a panic disorder', 6.61611557006836e-05), ('a panic disorder', 1.9550323486328125e-05)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+3	3	[]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[('is a  carcinogen', 8.785724639892578e-05), ('a  carcinogen', 4.9591064453125e-05)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+1	1	[]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[('die - cast', 0.00010251998901367188)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[('is my opia', 0.00011932849884033203), ('my opia', -0.0006300210952758789)]	['How many years is Johnnie Walker Black Label aged ?', 'At what age did Rossini stop writing opera ?']
+5	5	[('in New York', 1.621246337890625e-05), ('sales tax', 1.430511474609375e-05), ('New York', 1.430511474609375e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+5	5	[('what percentage', 0.00041615962982177734)]	"['How many furlongs are there in a mile-and-a-quarter recetrack ?', ""What wrestling star became `` The Incredible Hulk '' ?""]"
+4	4	[('in the world', 4.982948303222656e-05), ('the world', -0.0004353523254394531), ('fourth highest', -0.0004648566246032715)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+3	3	[]	"[""What wrestling star became `` The Incredible Hulk '' ?"", 'Who wrote the Bible ?']"
+1	1	[]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+5	5	[]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+0	0	[('stand for', -0.0005394220352172852), ('the acronym', -0.000556647777557373)]	['What is a person called that likes fire ?', 'What is a person called that likes fire ?']
+5	5	[('the Columbia River', 2.6464462280273438e-05), ('in miles', 2.5391578674316406e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+4	4	"[("" ' s"", 0.0001176595687866211), ('The Star ', 0.000102996826171875), ('The Star', -0.0008707642555236816)]"	['Who was Thucydides ?', 'Who is the Antichrist ?']
+2	2	[('is carbon dioxide', 0.00013017654418945312), ('carbon dioxide', -0.0002867579460144043)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+4	4	[]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+5	5	[]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+2	2	[('is metabolism', -0.0005353093147277832)]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+3	3	[('Laugh - In', 4.494190216064453e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+1	1	[('cigarettes made of', 0.00015842914581298828), ('made of', 5.5670738220214844e-05)]	['Who is the Pope ?', 'Who is Nicolo Paganini ?']
+4	4	[('the capital', -0.00011104345321655273), ('of Zimbabwe', -0.00015550851821899414)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+0	0	[('stand for', -0.00028210878372192383)]	['What is a person called that likes fire ?', 'What is a person called that likes fire ?']
+1	1	[('of Michigan', 4.26173210144043e-05)]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+2	2	[('semiconductor s', -0.000602424144744873)]	"[""What 's the difference between sleet and freezing rain ?"", 'At what age did Rossini stop writing opera ?']"
+2	2	[('nuclear power', -0.00046956539154052734)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[('is a tsunami', 0.00010025501251220703), ('a tsunami', -0.0006760954856872559)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+3	3	[('from state of Texas', 1.9073486328125e-05), ('state of Texas', 1.9073486328125e-05), ('the armed forces committee', 1.9073486328125e-05), ('of Texas', 1.8835067749023438e-05), ('armed forces', 1.8835067749023438e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+3	3	[('in 1913', 9.191036224365234e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+5	5	[]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+4	4	[]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+1	1	[('Lind berg h', 6.4373016357421875e-06), ('across the Atlantic', -0.00044292211532592773), ('the plane', -0.0038298368453979492), ('the Atlantic', -0.00844639539718628)]	['Who is Nicolo Paganini ?', 'Who is the Antichrist ?']
+2	2	[('is genocide', -0.000624239444732666)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+4	4	[('is Argentina on', 0.000148773193359375)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+4	1	[('the late eighth century', 0.0008797645568847656), ('by Vikings', -0.01922154426574707)]	['Who is the Antichrist ?', 'Who was Thucydides ?']
+2	2	[('is an earthquake', 0.00010895729064941406), ('an earthquake', -0.0006690621376037598)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+4	4	[]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+2	2	[('are enzymes', -0.0008186101913452148)]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+3	3	[('discovered oxygen', 0.00011515617370605469)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[(' mash', -0.0005827546119689941)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+1	1	[('at Louisiana State University', 0.00022345781326293945), ('to the Tiger', 0.00016647577285766602), ('Louisiana State University', 0.00013214349746704102), ('the Tiger', -0.0016025900840759277), ('Louisiana State', -0.0021948814392089844)]	['Who is Nicolo Paganini ?', 'Who is the Antichrist ?']
+4	4	[]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+3	3	[('reach the North Pole', 4.565715789794922e-05), ('the North Pole', 4.565715789794922e-05)]	"['What North American city sprouts the most parking meters ?', ""What wrestling star became `` The Incredible Hulk '' ?""]"
+2	2	[('is an ulcer', 9.85860824584961e-05), ('an ulcer', -0.0008307695388793945)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[(' vert igo', 0.00012993812561035156)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[]	['How many years is Johnnie Walker Black Label aged ?', 'At what age did Rossini stop writing opera ?']
+5	5	[('of summer', 5.555152893066406e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+0	0	[('the abbreviation', -2.467632293701172e-05), ('SO S', -3.62396240234375e-05)]	['Who told all in Ball Four ?', 'What two countries are separated by the Bering Strait ?']
+1	1	[('in Britain', 0.0004507303237915039)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+3	3	[]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+1	1	[('the  trop osphere', 0.00032806396484375)]	['Who is Nicolo Paganini ?', 'Who is the Antichrist ?']
+4	4	[('the most water pollution', 0.00010144710540771484)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+1	1	[('for elephant', 0.0001023411750793457)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+3	3	[('her role', 7.486343383789062e-05), ('the movie', 7.486343383789062e-05), (' Gypsy', 7.486343383789062e-05)]	"[""Who directed `` Jaws '' ?"", ""What wrestling star became `` The Incredible Hulk '' ?""]"
+1	1	[('of hunting dog', 0.00016760826110839844), ('Beverly Hill', 6.687641143798828e-05), ('hunting dog', 5.7578086853027344e-05)]	"[""What 's the singular of dice ?"", ""What 's the slowest Olympic swimming stroke ?""]"
+4	4	[('on Earth', -0.0011115670204162598)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+3	3	[('the Nobel Prize', 6.186962127685547e-05), ('in literature', 6.175041198730469e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+1	1	[('get the color pink', 0.00011241436004638672), ('to be mixed', 0.000110626220703125), ('the color pink', 0.000110626220703125), ('be mixed', -4.0531158447265625e-05), ('the color', -5.054473876953125e-05)]	"['What 2th-century fictional character attends Pencey Prep School ?', ""What wrestling star became `` The Incredible Hulk '' ?""]"
+1	1	[('in Japan', 8.07642936706543e-05), ('most popular', 2.86102294921875e-06)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+1	1	[('in baking soda', 0.00026530027389526367), ('baking soda', 0.00010341405868530273)]	"[""What 's the singular of dice ?"", 'Who is Nicolo Paganini ?']"
+5	5	[('Thomas Jefferson', 5.6743621826171875e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+5	5	[('should a refrigerator be', 4.1365623474121094e-05), ('a refrigerator', 3.9696693420410156e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'How many years is Johnnie Walker Black Label aged ?']
+5	5	[('the telephone', 5.53131103515625e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+1	1	[]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+4	4	[('in the United States', 0.00010728836059570312), ('the United States', -0.0002257823944091797)]	['Who is the Antichrist ?', 'Who is Samuel Pickering ?']
+2	2	[('is schizophrenia', -0.0006153583526611328)]	"['How many years is Johnnie Walker Black Label aged ?', ""What 's the difference between sleet and freezing rain ?""]"
+2	2	[]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+1	3	[('Jesse Jackson', -0.25435084104537964)]	['Who is the Pope ?', 'Who is Nicolo Paganini ?']
+4	4	[('in Utah', -0.000615239143371582)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+4	4	[('the Cat skill Mountains', 4.2438507080078125e-05), ('which state', -0.00014215707778930664), ('Cat skill', -0.0001551508903503418)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+1	1	[('backwards and forward', 0.0002289414405822754)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+2	2	[('pediatrician s', -0.00026047229766845703)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+3	3	[('Benton ville', 7.712841033935547e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+2	2	[('solar cells', -0.0004004836082458496)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[('is compound ed interest', 7.05718994140625e-05), ('compound ed interest', 5.9485435485839844e-05)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+2	2	[('cap ers', -0.0009503960609436035)]	['How many years is Johnnie Walker Black Label aged ?', 'At what age did Rossini stop writing opera ?']
+2	2	[('is an anti gen', 0.00015974044799804688), ('an anti gen', 0.00011587142944335938)]	['How many years is Johnnie Walker Black Label aged ?', 'At what age did Rossini stop writing opera ?']
+1	1	[('does Luxembourg use', 0.00031757354736328125)]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+5	5	[('the population', 2.276897430419922e-05), ('of Venezuela', 2.276897430419922e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+1	1	[('bullet proof vest s', 0.0001748204231262207), ('of  polymer', 0.00017029047012329102), (' polymer', -0.00011169910430908203), ('bullet proof', -0.00018078088760375977)]	"[""What 's the singular of dice ?"", ""What 's the slowest Olympic swimming stroke ?""]"
+1	1	[('does Argentina use', 0.0003986954689025879)]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+2	2	[('is a thermometer', 0.00015753507614135742), ('a thermometer', -0.0004856586456298828)]	"[""What 's the difference between sleet and freezing rain ?"", 'How many years is Johnnie Walker Black Label aged ?']"
+4	4	[('has the largest population', 7.045269012451172e-05), ('the largest population', 6.818771362304688e-05)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+1	1	[('are cricket s', 0.0002434849739074707), ('cricket s', 5.745887756347656e-05)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+4	4	[('the Statue of Liberty', 4.57763671875e-05), ('New York', -9.28640365600586e-05), ('of Liberty', -9.799003601074219e-05), ('the Statue', -0.00011014938354492188)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+1	1	[('sent into space', 0.00024896860122680664), ('into space', -0.00016438961029052734)]	['Who is Nicolo Paganini ?', 'Who is the Antichrist ?']
+1	1	[('of pure carbon', 0.00013017654418945312), ('a form', -3.337860107421875e-06), ('pure carbon', -3.1113624572753906e-05)]	"[""What 's the singular of dice ?"", 'Who is Nicolo Paganini ?']"
+1	1	[('in a fluorescent bulb', 7.784366607666016e-05), ('a fluorescent bulb', 7.712841033935547e-05), ('What kind', 4.76837158203125e-06), ('of gas', -2.384185791015625e-07)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+4	4	[('Rowe  , Italy', 0.00016748905181884766)]	['Name the Islamic counterpart to the Red Cross', 'Who was Thucydides ?']
+4	4	[('to the West', 7.18832015991211e-05), ('the West', -0.00014895200729370117), ('The Gateway', -0.00016075372695922852)]	['Who was Thucydides ?', 'Name the Islamic counterpart to the Red Cross']
+5	5	[('is the moon', 2.9206275939941406e-05), ('the moon', 2.8133392333984375e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+4	1	[('natural gas', -0.8198574632406235), ('of natural gas', -0.8967045620083809)]	['Who is the Antichrist ?', 'Name the Islamic counterpart to the Red Cross']
+1	1	[('his historic 1961 flight', 0.00015807151794433594), ('what spacecraft', 2.384185791015625e-07)]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+2	2	[(' pec tin', 0.000447690486907959)]	['At what age did Rossini stop writing opera ?', 'How many years is Johnnie Walker Black Label aged ?']
+1	1	[('to remove wallpaper', 0.00010657310485839844), ('remove wallpaper', -0.00034415721893310547)]	"['Who is Nicolo Paganini ?', ""What 's the singular of dice ?""]"
+5	5	[('the  Titanic', 1.0967254638671875e-05), ('start on its journey', 1.0967254638671875e-05), ('on its journey', 1.0967254638671875e-05), ('its journey', 9.417533874511719e-06)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+5	5	[('of an apple', 2.4199485778808594e-05), ('an apple', 2.3365020751953125e-05), ('is water', 2.3365020751953125e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+3	3	[('of the US', 3.981590270996094e-05), ('the US', 3.981590270996094e-05)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""Who directed `` Jaws '' ?""]"
+1	1	[('they use in Zambia', 0.0015637874603271484), ('use in Zambia', 0.0013096928596496582), ('in Zambia', -0.002991318702697754)]	"[""What wrestling star became `` The Incredible Hulk '' ?"", ""What 's the difference between sleet and freezing rain ?""]"
+5	5	[('in a mile', 2.086162567138672e-05), ('How many', 1.990795135498047e-05), ('a mile', 1.990795135498047e-05)]	['How many furlongs are there in a mile-and-a-quarter recetrack ?', 'What was the occupation of Mandy Rice-Davies ?']
+1	1	[('of October', 0.000245511531829834)]	['Who is Nicolo Paganini ?', 'Who is the Pope ?']
+2	2	[]	['At what age did Rossini stop writing opera ?', 'How many years is Johnnie Walker Black Label aged ?']

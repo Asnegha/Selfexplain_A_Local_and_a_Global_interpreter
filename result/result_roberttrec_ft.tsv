@@ -1,0 +1,486 @@
+predicted_labels	true_labels	lil_interpretations	gil_interpretations
+5	5	[('to As pen', -0.5379968881607056), ('As pen', -0.638783723115921), ('from Denver', -0.6485925912857056)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+4	4	[('Modest o', -0.8164030909538269), ('Modest o , California', -0.9435219615697861)]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+3	3	[('Who was Galileo', -0.25942033529281616), ('was Galileo', -0.462793231010437)]	"['Who sang about Desmond and Molly Jones ?', ""What is Columbia Tristar 's phone number ?""]"
+2	2	[('an atom', -0.8690374493598938), ('is an atom', -0.954759418964386), ('What is an atom', -0.9872925225645304)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('a state', -0.6625815033912659)]	"['What book does Holden Caulfield appear in ?', ""How many spears are there on Kenya 's flag ?""]"
+5	5	[('is the Sears Building', -0.41838687658309937), ('the Sears Building', -0.5192220509052277)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+3	3	[('in which baseball team', -0.10872882604598999), ('a small interest', -0.304107666015625), ('baseball team', -0.4153045415878296), ('in which', -0.45710593461990356)]	"[""Who played the original Charlie 's Angels ?"", 'What did The Gas House Gang play ?']"
+1	1	[]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+2	2	[('turn orange', -0.8256828039884567)]	['President Bush compared Saddam Hussein to whom ?', 'What is the chemical composition of a Barbie ?']
+2	2	[('is autism', -0.8576249033212662), ('What is autism', -0.9507045447826385)]	['What is the chemical composition of a Barbie ?', 'What does saliva consist of ?']
+4	4	[('in 1900', -0.7935420274734497), ('a world fair', -0.8789139240980148)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+3	3	"[('is on a dime', -0.16094762086868286), ('on a dime', -0.36581796407699585), (""' s"", -0.44213223457336426), ('a dime', -0.5428912937641144)]"	"['What did The Gas House Gang play ?', ""What is Columbia Tristar 's phone number ?""]"
+5	5	[('of a Yellow Labrador', -0.46059685945510864), ('a Yellow Labrador', -0.5542908608913422)]	"[""What country 's royal house is Bourbon-Parma ?"", 'What does the abbreviation cwt. ?']"
+3	3	[('across the Pacific Ocean', -0.08541816473007202), ('the Pacific Ocean', -0.20250380039215088)]	"['What is DSL ?', ""Who wrote ` The Pines of Rome ' ?""]"
+5	5	[('a state', -0.6741605401039124)]	['What book does Holden Caulfield appear in ?', 'What botanical marvel did Nebuchadnezzar build ?']
+5	5	[('for cr ickets', -0.5652480125427246), ('cr ickets', -0.6558740139007568)]	"[""What country 's royal house is Bourbon-Parma ?"", 'What does the abbreviation cwt. ?']"
+1	1	[('the highest melting point', -0.811736211180687)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+3	3	[('against polio', -0.3842574954032898), ('the vaccination', -0.4008738398551941)]	"[""Who wrote ` The Pines of Rome ' ?"", ""Who played the original Charlie 's Angels ?""]"
+2	2	[('is epilepsy', -0.8543806672096252), ('What is epilepsy', -0.9482235722243786)]	['What is the chemical composition of a Barbie ?', 'President Bush compared Saddam Hussein to whom ?']
+5	5	[('did the Titanic sink', -0.5117546916007996), ('the Titanic', -0.6755062639713287)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+3	3	[('to walk in space', -0.13847380876541138), ('walk in space', -0.2633312940597534), ('in space', -0.47944045066833496)]	"[""Who wrote ` The Pines of Rome ' ?"", 'Who sang about Desmond and Molly Jones ?']"
+2	2	[('a bi osphere', -0.9419856183230877), ('is a bi osphere', -0.9830525107681751)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('the US', -0.8181551694869995), ('Big M', -0.8196689933538437), ('in the US', -0.9018450304865837), ('the Big M uddy', -0.9623115360736847)]	['What molecules include fluorine , sodium and magnesium ?', 'What U.S. state ends with a G ?']
+2	2	[('bipolar disorder', -0.8428255319595337), ('is bipolar disorder', -0.944086704403162), ('What is bipolar disorder', -0.9841877780854702)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('is cholesterol', -0.8534047156572342), ('What is cholesterol', -0.9479094371199608)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+3	3	[('developed the Macintosh computer', -0.11770153045654297), ('the Macintosh computer', -0.22495877742767334)]	"['Who sang about Desmond and Molly Jones ?', ""Who wrote ` The Pines of Rome ' ?""]"
+2	2	[('is caffeine', -0.8634882867336273), ('What is caffeine', -0.9538083411753178)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('North and South', -0.8578111231327057)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+4	4	[('John Wayne', -0.8365959227085114), ('John Wayne airport', -0.9143940731883049)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+4	4	[('the Philippines', -0.8071126639842987), ('is the Philippines in', -0.9284045025706291)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+5	5	[('at the Kentucky Derby', -0.5437389314174652), ('of the horses', -0.5945553481578827), ('the Kentucky Derby', -0.6197367906570435), ('the horses', -0.6773914992809296)]	"[""What country 's royal house is Bourbon-Parma ?"", 'How many corners does a spritsail have ?']"
+4	4	[('the Rocky Mountains', -0.9097479432821274)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+2	2	[('inver te brates', -0.9377860091626644)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('of the earth', -0.6349424719810486), ('the earth', -0.6970077753067017), ('the center', -0.7015978693962097)]	"[""What country 's royal house is Bourbon-Parma ?"", 'What does the abbreviation cwt. ?']"
+5	5	[('get elected as President', -0.5195597112178802), ('elected as President', -0.594851940870285), ('as President', -0.6773046851158142)]	"[""What letter does Gorbachev 's middle name start with ?"", 'What book does Holden Caulfield appear in ?']"
+5	5	[('when he died', -0.5430237948894501), ('Elvis Pres ley', -0.5549537241458893), ('he died', -0.6466179192066193)]	"['What botanical marvel did Nebuchadnezzar build ?', ""What letter does Gorbachev 's middle name start with ?""]"
+4	4	[('oco River', -0.8066209554672241), ('in oco River', -0.8972758874297142)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+5	5	[('from the net', -0.5634062886238098), ('the service line', -0.5700564682483673), ('the net', -0.6595990359783173), ('in tennis', -0.6631703674793243)]	['How many corners does a spritsail have ?', 'Who was the first English circumnavigator of the globe ?']
+5	5	[('have per day', -0.5667870342731476), ('per day', -0.655200719833374), ('How much', -0.6569323539733887)]	['Who was the first English circumnavigator of the globe ?', 'How many Fig Newtons are there to the pound ?']
+5	5	[('are there', -0.6502375602722168), ('How many', -0.6534325778484344)]	['Who was the first English circumnavigator of the globe ?', 'How many corners does a spritsail have ?']
+1	1	[('called linen', -0.7870364338159561), ('what plant', -0.8127392381429672), ('from what plant', -0.8538732528686523), ('made from what plant', -0.8955970481038094)]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+2	2	[('T ef lon', -0.9567036665976048), ('is T ef lon', -0.9872546773403883)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('y line', -0.8583255559206009)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('a shaman', -0.8658291846513748), ('is a shaman', -0.9511093460023403), ('What is a shaman', -0.985589288175106)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+1	1	[('a female wal rus', -0.9316619634628296)]	"[""Where does `` bovine '' come from ?"", ""What does Lloyd 's Lutine Bell announce ?""]"
+1	1	[('tur keys', -0.8237451463937759), ('of tur keys', -0.8679626435041428)]	"[""Where does `` bovine '' come from ?"", ""What army 's motto is Blood and Fire ?""]"
+5	5	[('Rip Van W', -0.5430015921592712), ('inkle sleep', -0.64964359998703)]	['What botanical marvel did Nebuchadnezzar build ?', 'Who was the first English circumnavigator of the globe ?']
+2	2	[('triglycer ides', -0.8504234552383423), ('are triglycer ides', -0.9465348646044731), ('What are triglycer ides', -0.9849766632542014)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('in a gallon', -0.5659553706645966), ('a gallon', -0.6526627540588379), ('How many', -0.6615308225154877)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+3	3	[('the chocolate company', -0.20113855600357056), ('in San Francisco', -0.21296995878219604), ('San Francisco', -0.430752158164978)]	"['What did The Gas House Gang play ?', ""What is Columbia Tristar 's phone number ?""]"
+2	2	[('amphib ians', -0.8498191386461258), ('are amphib ians', -0.9467425681650639), ('What are amphib ians', -0.9848151002079248)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+3	3	[('discovered x - rays', -0.11322885751724243), ('x - rays', -0.20716941356658936)]	"[""Who wrote ` The Pines of Rome ' ?"", 'Who sang about Desmond and Molly Jones ?']"
+3	3	[('Can we talk', -0.2928661108016968)]	"['What is DSL ?', ""Who wrote ` The Pines of Rome ' ?""]"
+2	2	[('fib romy algia', -0.9393555112183094), ('is fib romy algia', -0.981452003121376)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('worn or outdated', -0.9222481101751328)]	['What is the chemical composition of a Barbie ?', 'President Bush compared Saddam Hussein to whom ?']
+2	2	[('in engines', -0.7935294955968857)]	['President Bush compared Saddam Hussein to whom ?', 'What does storm wave mean in Japanese ?']
+5	5	[]	"[""What letter does Gorbachev 's middle name start with ?"", 'What botanical marvel did Nebuchadnezzar build ?']"
+4	4	[('of Yugoslavia', -0.8022726327180862), ('the capital', -0.8033830225467682)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+4	4	[('is Milan', -0.8238759636878967), ('Where is Milan', -0.9071407988667488)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+5	5	[('humming birds fly', -0.5971367955207825), ('humming birds', -0.6720156073570251)]	"[""What country 's royal house is Bourbon-Parma ?"", 'How many corners does a spritsail have ?']"
+4	4	[('the United States', -0.8903505280613899), ('in the United States', -0.9450489096343517)]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+4	4	[('North Dakota', -0.8183223754167557), ('head , Minnesota', -0.9009210392832756)]	['What molecules include fluorine , sodium and magnesium ?', 'What U.S. state ends with a G ?']
+1	1	[('do bats eat', -0.8586938679218292), ('What do bats eat', -0.9040142223238945)]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+4	4	[('the Battle', -0.7968069761991501), ('B igh orn', -0.8867620229721069), ('take place in', -0.8880117610096931), ('of B igh orn', -0.9453513659536839)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+3	3	[('Who was Abraham Lincoln', -0.1606345772743225), ('was Abraham Lincoln', -0.28871452808380127), ('Abraham Lincoln', -0.4775383472442627)]	"['Who sang about Desmond and Molly Jones ?', ""What is Columbia Tristar 's phone number ?""]"
+2	2	[('spider veins', -0.8440785706043243), ('are spider veins', -0.9435074664652348), ('What are spider veins', -0.9837299212813377)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('did John Lennon die', -0.5445896685123444), ('John Lennon', -0.6877764165401459)]	['What botanical marvel did Nebuchadnezzar build ?', 'What book does Holden Caulfield appear in ?']
+4	4	[('North America', -0.812525138258934), ('from Asia', -0.8132229745388031)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+5	5	[('of Seattle', -0.6581121981143951), ('the population', -0.6627804040908813)]	"[""What country 's royal house is Bourbon-Parma ?"", 'How many corners does a spritsail have ?']"
+5	5	[('for the Titanic', -0.5898111760616302), ('a ticket', -0.6615815758705139), ('the Titanic', -0.6707620322704315)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+4	4	[('the world', -0.8052566796541214), ('in the world', -0.8836762607097626)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+3	3	[('West Side Story', -0.24323934316635132), ('West Side', -0.44844383001327515), ('the music', -0.4736511707305908)]	"['What is DSL ?', ""Who played the original Charlie 's Angels ?""]"
+4	4	[('the America', -0.861649826169014), ('of the America', -0.9402965009212494)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+2	2	[('the pH scale', -0.9382766410708427), ('is the pH scale', -0.9749146942049265)]	"[""When was `` the Great Depression '' ?"", 'President Bush compared Saddam Hussein to whom ?']"
+1	1	[('used in Australia', -0.6860576272010803), ('in Australia', -0.704147607088089), ('is used in Australia', -0.7049306929111481), ('of currency', -0.7113875448703766), ('What type', -0.7218453586101532)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+5	5	[('St . Louis', -0.5473158061504364), ('the Gateway Arch', -0.5527313947677612)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+5	5	[]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+3	3	[('of Alaska', -0.44805341958999634)]	"[""Who wrote ` The Pines of Rome ' ?"", ""What is Columbia Tristar 's phone number ?""]"
+2	2	[('a prism', -0.867334395647049), ('is a prism', -0.9533718638122082), ('What is a prism', -0.9868929674848914)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[]	['Who was the first English circumnavigator of the globe ?', 'How many corners does a spritsail have ?']
+3	3	[('president of South Africa', -0.13026189804077148), ('of South Africa', -0.24782580137252808), ('South Africa', -0.45220261812210083), ('in 1994', -0.46291178464889526)]	"[""Who wrote ` The Pines of Rome ' ?"", ""What is Columbia Tristar 's phone number ?""]"
+5	5	[('of China', -0.6696567535400391), ('the population', -0.6783921122550964)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What is Mark McGwire 's e-mail address ?""]"
+5	5	[('Rosa Parks', -0.6819418370723724)]	"['What botanical marvel did Nebuchadnezzar build ?', ""How many spears are there on Kenya 's flag ?""]"
+2	2	[]	['What is the chemical composition of a Barbie ?', 'President Bush compared Saddam Hussein to whom ?']
+2	2	[('am oxic illin', -0.9476452693343163), ('is am oxic illin', -0.9843883514404297)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+3	3	[]	"[""What is Columbia Tristar 's phone number ?"", ""Who wrote ` The Pines of Rome ' ?""]"
+2	2	[]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('de Leon', -0.8164326697587967), ('come from', -0.8278738409280777), ('once de Leon', -0.8981980085372925), ('P once de Leon', -0.953290943056345)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+1	1	[('paper currency', -0.7128545045852661), ('during which', -0.7701816409826279), ('during which war', -0.7862105518579483)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+2	2	[('desktop publishing', -0.838385671377182), ('is desktop publishing', -0.9394335933029652), ('What is desktop publishing', -0.9821225386112928)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	"[(""the sun ' s"", -0.5390443205833435)]"	"[""What country 's royal house is Bourbon-Parma ?"", 'What does the abbreviation cwt. ?']"
+5	5	[('join the United Nations', -0.5234269499778748), ('the United Nations', -0.598164975643158)]	"['What book does Holden Caulfield appear in ?', ""What letter does Gorbachev 's middle name start with ?""]"
+3	3	[('in the US', -0.2382873296737671), ('the US', -0.439591646194458)]	"['What does a chairbound basophobic fear ?', ""Who wrote ` The Pines of Rome ' ?""]"
+4	4	[('Prince Edward', -0.8392657488584518), ('Prince Edward Island', -0.9189142808318138)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+5	5	[('was it discovered', -0.5922558009624481), ('what year', -0.6715148687362671)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+2	2	[('cry ogen ics', -0.946962583810091), ('is cry ogen ics', -0.984219266101718)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('coral reefs', -0.8411550521850586), ('are coral reefs', -0.9423007518053055), ('What are coral reefs', -0.9830563459545374)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	1	[('baseball - winning', -0.5373536944389343)]	"[""What country 's royal house is Bourbon-Parma ?"", 'What does the abbreviation cwt. ?']"
+2	2	[('neurolog y', -0.8468683212995529), ('is neurolog y', -0.9439021684229374), ('What is neurolog y', -0.9835683908313513)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+3	3	[('Who invented the calculator', -0.1220477819442749), ('invented the calculator', -0.2331017255783081), ('the calculator', -0.42734575271606445)]	"[""Who played the original Charlie 's Angels ?"", ""Who wrote ` The Pines of Rome ' ?""]"
+2	2	[('measure earthquakes', -0.845684364438057)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+3	3	[('Duke E', -0.4326157569885254), ('lling ton', -0.4418713450431824)]	"['What did The Gas House Gang play ?', ""What is Columbia Tristar 's phone number ?""]"
+4	4	[('Phoenix , AZ', -0.8934316709637642)]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+2	2	[('a mic ron', -0.9512481093406677), ('is a mic ron', -0.9852645983919501)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('what is the temperature', -0.5404832065105438), ('is the temperature', -0.6079846024513245), ('the temperature', -0.6869073212146759)]	"[""What country 's royal house is Bourbon-Parma ?"", 'What does the abbreviation cwt. ?']"
+1	1	[]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+5	5	[]	"[""How many spears are there on Kenya 's flag ?"", 'What botanical marvel did Nebuchadnezzar build ?']"
+4	4	[('the U . S', -0.9504326209425926)]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+1	1	[('poison arrow', -0.783811092376709), ('a poison arrow frog', -0.8179536759853363)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+2	2	[('is acupuncture', -0.8637634515762329), ('What is acupuncture', -0.9538489580154419)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('the state of Alaska', -0.4671187400817871), ('of Alaska', -0.6506415605545044), ('the state', -0.6668531000614166), ('the coastline', -0.674078106880188)]	['Who was the first English circumnavigator of the globe ?', 'How many corners does a spritsail have ?']
+3	3	"[(""Neil Armstrong ' s"", -0.1718694567680359)]"	['Who sang about Desmond and Molly Jones ?', 'What does a chairbound basophobic fear ?']
+1	1	[]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+3	3	[('in 1989', -0.4670286774635315)]	"['What is DSL ?', ""What is Columbia Tristar 's phone number ?""]"
+5	5	[]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+1	1	[('oste op or osis', -0.8523907512426376)]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+5	5	[('won the World Series', -0.461345911026001), ('the Chicago Cubs', -0.5560171604156494), ('the World Series', -0.5648102462291718)]	"[""What letter does Gorbachev 's middle name start with ?"", 'What book does Holden Caulfield appear in ?']"
+4	4	[('is Perth', -0.8214207589626312), ('Where is Perth', -0.9100130870938301)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+5	5	[('did WWII begin', -0.596210390329361)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+5	5	[('of a golf ball', -0.4904400706291199), ('a golf ball', -0.5673843622207642)]	"[""What country 's royal house is Bourbon-Parma ?"", 'Who was the first English circumnavigator of the globe ?']"
+2	2	[('an eclipse', -0.8608544766902924), ('is an eclipse', -0.9509905949234962), ('What is an eclipse', -0.9860241701826453)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+3	3	[('Who discovered America', -0.26363956928253174), ('discovered America', -0.46063512563705444)]	"[""Who wrote ` The Pines of Rome ' ?"", ""Who played the original Charlie 's Angels ?""]"
+5	5	[]	"[""What country 's royal house is Bourbon-Parma ?"", 'Who was the first English circumnavigator of the globe ?']"
+3	3	[('Which president was unmarried', -0.13701242208480835), ('Which president', -0.45835649967193604), ('was unmarried', -0.46317458152770996)]	"['What is DSL ?', ""Who wrote ` The Pines of Rome ' ?""]"
+5	5	[('the Milky Way galaxy', -0.47730642557144165), ('Milky Way', -0.6576702296733856)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+5	5	[('most thunder storms', -0.540526956319809), ('which season', -0.6457010805606842)]	['Who was the first English circumnavigator of the globe ?', 'What book does Holden Caulfield appear in ?']
+2	2	[('Wim bledon', -0.8760106191039085), ('is Wim bledon', -0.955217394977808), ('What is Wim bledon', -0.9868420828133821)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('for a cat', -0.5735103785991669), ('a cat', -0.6597371697425842)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What letter does Gorbachev 's middle name start with ?""]"
+5	5	[('a n autical mile', -0.49583572149276733), ('n autical', -0.6672084927558899)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+3	3	"[(""Harper ' s Ferry"", -0.10644024610519409), (""Harper ' s"", -0.21784687042236328), ('in 18 59', -0.24202585220336914), ('was the abolition', -0.27860087156295776), ('18 59', -0.4453467130661011)]"	"['What is DSL ?', ""Who wrote ` The Pines of Rome ' ?""]"
+2	2	[]	['What does idle mean ?', 'President Bush compared Saddam Hussein to whom ?']
+1	1	[('to go into space', -0.7150627672672272), ('go into space', -0.7194810807704926), ('into space', -0.744089275598526)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+2	2	[('is foreclosure', -0.8557911664247513), ('What is foreclosure', -0.9494301080703735)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	1	[('near Kentucky', -0.8206175267696381)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+4	4	[('the Holland Tunnel', -0.9165987446904182)]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+3	3	[('Amazing Grace', -0.4605065584182739)]	"['Who sang about Desmond and Molly Jones ?', ""What is Columbia Tristar 's phone number ?""]"
+3	3	[('play in baseball', -0.2713701128959656), ('in baseball', -0.4804433584213257), ('Willie Davis', -0.5004916191101074)]	['What did The Gas House Gang play ?', 'Who sang about Desmond and Molly Jones ?']
+2	2	[('are plate', -0.8534734547138214), ('What are plate', -0.9506913460791111), ('What are plate lets', -0.9825952630490065)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('sever ance', -0.7921600937843323), ('sever ance pay', -0.8970222994685173), ('is sever ance pay', -0.9654516130685806)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+1	1	"[(""Roy Roger ' s"", -0.8854663819074631)]"	"[""What army 's motto is Blood and Fire ?"", ""Where does `` bovine '' come from ?""]"
+4	4	[('the National Archives', -0.8956680297851562)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+1	1	[('a baby turkey', -0.8454344570636749)]	"[""What army 's motto is Blood and Fire ?"", ""Where does `` bovine '' come from ?""]"
+1	1	[('the human body', -0.8641998320817947), ('in the human body', -0.9020642712712288)]	"[""What does Lloyd 's Lutine Bell announce ?"", ""Where does `` bovine '' come from ?""]"
+3	3	[('is a German philosopher', -0.14131712913513184), ('a German philosopher', -0.26316148042678833)]	"[""Who wrote ` The Pines of Rome ' ?"", 'What is DSL ?']"
+1	1	[]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+2	2	[]	['What does idle mean ?', 'What does pH stand for ?']
+2	2	[('is nicotine', -0.85367052257061), ('What is nicotine', -0.9493091218173504)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+1	1	[('vitamin B 1', -0.7629255205392838), ('for vitamin B 1', -0.7950164526700974)]	"[""What country 's royal house is Bourbon-Parma ?"", ""Where does `` bovine '' come from ?""]"
+3	3	[('Who discovered rad ium', -0.11039203405380249), ('discovered rad ium', -0.2081189751625061), ('rad ium', -0.3897326588630676)]	"[""Who wrote ` The Pines of Rome ' ?"", 'Who sang about Desmond and Molly Jones ?']"
+2	2	[('sun sp ots', -0.9365828931331635)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('colon ized', -0.6803556978702545)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+3	3	[('part of their uniform', -0.11258560419082642), ('of their uniform', -0.20793753862380981), ('their uniform', -0.39096999168395996), ('the first', -0.3912145495414734)]	"[""Who wrote ` The Pines of Rome ' ?"", ""What is Columbia Tristar 's phone number ?""]"
+4	4	[('is Egypt on', -0.9003851935267448)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+4	4	[('of Mongolia', -0.7912106513977051), ('the capital', -0.7919944226741791)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+2	2	[('nan otechnology', -0.8553932458162308), ('is nan otechnology', -0.9469820894300938), ('What is nan otechnology', -0.9843741441145539)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('which colony', -0.8439127951860428), ('populate which colony', -0.9171094819903374), ('to populate which colony', -0.9573039524257183)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+4	4	[('lower 48', -0.8060656189918518), ('the geographic center', -0.882878802716732), ('the lower 48 states', -0.9388318061828613)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+2	2	[]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('poly mers', -0.8478306382894516), ('are poly mers', -0.945794552564621), ('What are poly mers', -0.9846108024939895)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('in the Caribbean', -0.604893684387207), ('the Caribbean', -0.6845447421073914)]	['How many corners does a spritsail have ?', 'Who was the first English circumnavigator of the globe ?']
+4	4	[('M auna Lo a', -0.9607376269996166)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+1	1	[('the Northern Lights', -0.6560996472835541), ('for the Northern Lights', -0.6590164601802826)]	"[""What causes `` rolling thunder '' ?"", ""Where does `` bovine '' come from ?""]"
+4	4	[('part of', -0.8101241290569305), ('is Spain part of', -0.9455878287553787)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+5	5	[]	"[""What letter does Gorbachev 's middle name start with ?"", ""What is Mark McGwire 's e-mail address ?""]"
+2	2	[('acet amin ophen', -0.953284177929163), ('is acet amin ophen', -0.9857279201969504)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('of rain', -0.6724535524845123), ('per year', -0.6796348989009857), ('the least amount', -0.771337553858757)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+3	3	[('founded American Red Cross', -0.16133439540863037), ('American Red Cross', -0.2853696942329407)]	"[""Who wrote ` The Pines of Rome ' ?"", 'Who sang about Desmond and Molly Jones ?']"
+5	5	[('become the Atlanta Braves', -0.520733118057251), ('the Milwaukee Braves', -0.5901912450790405), ('the Atlanta Braves', -0.5939910709857941)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+5	5	[('is alcohol absorbed', -0.5768504738807678)]	['What botanical marvel did Nebuchadnezzar build ?', 'Who was the first English circumnavigator of the globe ?']
+5	5	[]	"['How many corners does a spritsail have ?', ""What letter does Gorbachev 's middle name start with ?""]"
+2	2	[('super nova', -0.8532606214284897), ('is super nova', -0.9454270824790001), ('What is super nova', -0.983915051445365)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+4	4	[('Live free', -0.8474889546632767), ('Live free or Die', -0.976729266345501)]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+4	4	[('the L', -0.834303006529808), ('our ve', -0.8487155884504318)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+5	5	[('the first stamp', -0.6265299320220947)]	"['What book does Holden Caulfield appear in ?', ""How many spears are there on Kenya 's flag ?""]"
+1	1	[('to make orange', -0.7229634523391724), ('make orange', -0.7297290861606598), ('mix to make orange', -0.7407656610012054)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+5	5	[('from the sun', -0.6175653636455536), ('the sun', -0.6919763386249542)]	['Who was the first English circumnavigator of the globe ?', 'How many corners does a spritsail have ?']
+4	4	[('of water', -0.8274189680814743), ('What body', -0.8346892893314362), ('the Canary Islands', -0.905007429420948)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+2	2	[('neuro pathy', -0.8577256500720978), ('is neuro pathy', -0.9502730034291744), ('What is neuro pathy', -0.9858174286782742)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+2	2	[('is cryptography', -0.8535853028297424), ('What is cryptography', -0.9446300454437733)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+1	1	[('natural gas', -0.7467244863510132), ('composed of', -0.7874613255262375)]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+3	3	[('of Canada', -0.47845619916915894)]	"[""Who wrote ` The Pines of Rome ' ?"", ""What is Columbia Tristar 's phone number ?""]"
+3	3	[('the battle of Waterloo', -0.11361134052276611), ('of Waterloo', -0.42868149280548096), ('the battle', -0.45193910598754883)]	"['What is DSL ?', ""Who played the original Charlie 's Angels ?""]"
+2	2	[('is leukemia', -0.8596101254224777), ('What is leukemia', -0.9521436877548695)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('Howard Hughes', -0.8200099319219589)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+1	1	[('for June', -0.7368496358394623)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+5	1	[('in Minnesota', -0.6738930940628052)]	"[""When was `` the Great Depression '' ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+5	5	[('from the earth', -0.5975873470306396), ('to the sun', -0.6168246269226074), ('the earth', -0.6815361976623535), ('in miles', -0.6865171790122986), ('the sun', -0.6942757070064545)]	['Who was the first English circumnavigator of the globe ?', 'How many corners does a spritsail have ?']
+5	5	[('for a chicken', -0.5681819021701813), ('a chicken', -0.6668058037757874)]	"[""What country 's royal house is Bourbon-Parma ?"", 'Who was the first English circumnavigator of the globe ?']"
+5	5	[]	"['What book does Holden Caulfield appear in ?', ""How many spears are there on Kenya 's flag ?""]"
+2	2	[('relative humidity', -0.8621422946453094), ('is relative humidity', -0.9509223215281963), ('What is relative humidity', -0.9860277594998479)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('358 24', -0.801510289311409), ('the zip code', -0.8691709339618683), ('of 358 24', -0.8752296715974808)]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+1	1	[('used in Algeria', -0.7022692561149597), ('in Algeria', -0.7135724127292633), ('is used in Algeria', -0.728805810213089)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+3	3	[]	"[""Who wrote ` The Pines of Rome ' ?"", 'What is DSL ?']"
+1	1	[('in 1957', -0.7340700924396515), ('most popular', -0.7421333193778992)]	"[""What army 's motto is Blood and Fire ?"", ""Where does `` bovine '' come from ?""]"
+1	1	[('made of', -0.7983187288045883), ('i made of', -0.8256187736988068)]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+1	1	[('in 1957', -0.7436469495296478), ('into space', -0.753075122833252), ('the Soviet Union', -0.7589800208806992), ('the satellite', -0.7628800719976425)]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+4	4	[('The En quire r', -0.8851780220866203)]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+3	3	[('invented the sl inky', -0.07870036363601685), ('the sl inky', -0.16468000411987305)]	"[""Who wrote ` The Pines of Rome ' ?"", 'Who sang about Desmond and Molly Jones ?']"
+1	1	[('back bones', -0.803633376955986), ('have back bones', -0.843685120344162)]	"[""Where does `` bovine '' come from ?"", ""What army 's motto is Blood and Fire ?""]"
+5	5	[('of copper', -0.7133975327014923)]	"[""What country 's royal house is Bourbon-Parma ?"", 'What does idle mean ?']"
+4	4	[('the volcano', -0.8214644193649292), ('Olympus Mons', -0.8294718116521835)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+3	3	[('of the United States', -0.14093440771102905), ('the United States', -0.2691066265106201), ('23 rd', -0.45048391819000244)]	"[""Who wrote ` The Pines of Rome ' ?"", ""What is Columbia Tristar 's phone number ?""]"
+5	5	[]	"[""What country 's royal house is Bourbon-Parma ?"", 'What does the abbreviation cwt. ?']"
+2	2	[('acid rain', -0.8193197399377823), ('of acid rain', -0.9193964451551437)]	['What is the chemical composition of a Barbie ?', 'President Bush compared Saddam Hussein to whom ?']
+5	5	[('the United States', -0.5925752520561218), ('abolish the draft', -0.5963772833347321), ('the draft', -0.6811019480228424)]	['Who was the first English circumnavigator of the globe ?', 'What book does Holden Caulfield appear in ?']
+5	5	[('the speed of light', -0.5112723112106323), ('the speed', -0.6744040846824646), ('of light', -0.6754399836063385)]	['Who was the first English circumnavigator of the globe ?', 'How many corners does a spritsail have ?']
+4	4	[('is Montreal in', -0.9024048075079918)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+1	4	[('the Twin Towers', -0.8211706727743149), ('New York', -0.8304239362478256), ('as the Twin Towers', -0.847861036658287)]	"[""What army 's motto is Blood and Fire ?"", 'What English explorer discovered and named Virginia ?']"
+2	2	[('is fungus', -0.8627848774194717), ('What is fungus', -0.9533327855169773)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+1	1	[('in the Netherlands', -0.7147983610630035), ('most frequently', -0.721298485994339), ('the Netherlands', -0.7234584987163544)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+2	2	[('sodium chloride', -0.8674540817737579), ('is sodium chloride', -0.9526719078421593), ('What is sodium chloride', -0.9863972775638103)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	1	[('dom ino es', -0.9156055226922035), ('on dom ino es', -0.9547937959432602)]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+5	5	[('in a ton', -0.5698238611221313), ('a ton', -0.6526007354259491), ('How many', -0.6626251339912415)]	['Who was the first English circumnavigator of the globe ?', 'How many corners does a spritsail have ?']
+2	2	[('is influenza', -0.8569386601448059), ('What is influenza', -0.9501189664006233)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('ozone depletion', -0.8342899531126022), ('is ozone depletion', -0.9386212900280952), ('What is ozone depletion', -0.9819103386253119)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('the Mon a Lisa', -0.4780001640319824)]	"['Who was the first English circumnavigator of the globe ?', ""What letter does Gorbachev 's middle name start with ?""]"
+2	2	[('Sitting Shiva', -0.8646550476551056)]	['What does idle mean ?', 'What is the chemical composition of a Barbie ?']
+5	1	[('in Madrid , Spain', -0.4993019104003906), ('Madrid , Spain', -0.5680400133132935)]	"[""What country 's royal house is Bourbon-Parma ?"", 'How many Fig Newtons are there to the pound ?']"
+4	4	[('from Maine', -0.792080894112587), ('to Georgia', -0.7936539947986603), ('North America', -0.8065215796232224), ('in North America', -0.8876364827156067)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+1	1	[('made of', -0.7738523185253143), ('plastic made of', -0.7891514152288437), ('is plastic made of', -0.8390981256961823)]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+5	5	[('of Nigeria', -0.6739971339702606), ('the population', -0.6771416366100311)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What is Mark McGwire 's e-mail address ?""]"
+2	2	[]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('the Grand Canyon', -0.9155092239379883)]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+3	3	[('Who invented the telephone', -0.1320861577987671), ('invented the telephone', -0.24636512994766235), ('the telephone', -0.4429304599761963)]	"['What is DSL ?', ""Who played the original Charlie 's Angels ?""]"
+5	5	[('buy Alaska', -0.67416912317276)]	['What book does Holden Caulfield appear in ?', 'Who was the first English circumnavigator of the globe ?']
+3	3	[('the leader of Ireland', -0.1510559320449829), ('the leader', -0.4799807071685791), ('of Ireland', -0.493574321269989)]	"[""Who wrote ` The Pines of Rome ' ?"", 'What does a chairbound basophobic fear ?']"
+2	2	[]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('in a cubic foot', -0.5089246034622192), ('a cubic foot', -0.5859580039978027), ('How many', -0.6693156361579895), ('of water', -0.6739557087421417)]	['Who was the first English circumnavigator of the globe ?', 'How many corners does a spritsail have ?']
+3	1	[('of the Legislative branch', -0.47234195470809937), ('the Legislative branch', -0.5670194327831268)]	"[""What does ` PSI ' stand for ?"", 'When do MORMONS believe Christ was born ?']"
+2	2	[('son ar', -0.8596540093421936), ('is son ar', -0.9507659077644348), ('What is son ar', -0.9861407680436969)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('most people', -0.822748601436615)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+2	2	[('is phosphorus', -0.8677683472633362), ('What is phosphorus', -0.9555561020970345)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('the Sea', -0.7970404326915741), ('Tr anqu ility', -0.8906301110982895), ('of Tr anqu ility', -0.9481965452432632)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+5	5	[('How fast is sound', -0.5162217617034912), ('is sound', -0.671525627374649), ('How fast', -0.6734145283699036)]	['What botanical marvel did Nebuchadnezzar build ?', 'Who was the first English circumnavigator of the globe ?']
+4	4	[('produced in', -0.7890573292970657), ('cogn ac', -0.8223880231380463)]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+2	2	"[(""Valentine ' s"", -0.9280101656913757)]"	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('gray hair', -0.8262146264314651), ('causes gray hair', -0.9338732659816742), ('What causes gray hair', -0.9798604771494865)]	['What is the chemical composition of a Barbie ?', 'President Bush compared Saddam Hussein to whom ?']
+2	2	[('is hypertension', -0.8520433604717255), ('What is hypertension', -0.9456630013883114)]	['What is the chemical composition of a Barbie ?', 'President Bush compared Saddam Hussein to whom ?']
+2	2	[('is bandwidth', -0.8768996521830559), ('What is bandwidth', -0.9571129232645035)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('the U . S', -0.9549228176474571)]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+2	2	[('a parasite', -0.8515088558197021), ('is a parasite', -0.9471948593854904), ('What is a parasite', -0.9849400753155351)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('home equity', -0.8065704852342606), ('is home equity', -0.9202815815806389), ('What is home equity', -0.9746581465005875)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('meteor ologists', -0.8061247020959854)]	['What is the chemical composition of a Barbie ?', 'What do bicornate animals have two of ?']
+2	1	[('legally blind', -0.8122188150882721), ('being legally blind', -0.8983015492558479), ('for being legally blind', -0.952824741601944)]	['What is a Cartesian Diver ?', 'What does idle mean ?']
+3	3	[('in the world', -0.24858027696609497), ('the world', -0.45215898752212524)]	"[""Who wrote ` The Pines of Rome ' ?"", 'What does a chairbound basophobic fear ?']"
+4	4	[('the twin cities', -0.8589352816343307)]	"[""What is New England 's highest mountain ?"", 'What U.S. state ends with a G ?']"
+1	1	[('Howard Smith', -0.7162727415561676), ('in 1903', -0.7596578896045685), ('invent in 1903', -0.7690204232931137)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+1	1	[('the statue', -0.782703623175621), ('made of', -0.7963000237941742), ('of liberty', -0.8007440268993378)]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+2	2	[('pil ates', -0.8535221070051193), ('is pil ates', -0.9467563144862652), ('What is pil ates', -0.9847295731306076)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+5	5	[('of the Nile river', -0.5599596500396729), ('the Nile river', -0.6244037747383118)]	"[""What country 's royal house is Bourbon-Parma ?"", 'What does the abbreviation cwt. ?']"
+2	2	[]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[]	"[""What country 's royal house is Bourbon-Parma ?"", 'How many Fig Newtons are there to the pound ?']"
+3	3	[('for the Brooklyn Dodgers', -0.1428515911102295), ('the Brooklyn Dodgers', -0.26051831245422363)]	"[""Who wrote ` The Pines of Rome ' ?"", 'Who sang about Desmond and Molly Jones ?']"
+3	3	[('of Canada', -0.46691083908081055)]	"[""Who wrote ` The Pines of Rome ' ?"", ""What is Columbia Tristar 's phone number ?""]"
+5	5	[('How many', -0.6514555513858795)]	['How many corners does a spritsail have ?', 'What botanical marvel did Nebuchadnezzar build ?']
+1	1	[('Glenn Miller', -0.7360505163669586), ('did Glenn Miller play', -0.8107690960168839)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+5	5	[('when she died', -0.542037844657898), ('Joan of Arc', -0.556749016046524), ('she died', -0.647779107093811), ('of Arc', -0.6581782698631287)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+2	2	[]	['What does idle mean ?', 'President Bush compared Saddam Hussein to whom ?']
+2	2	[('d ian etics', -0.9388789795339108)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('of Ethiopia', -0.7899775803089142), ('the capital', -0.7935823798179626)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+5	5	[('is an elephant pregnant', -0.47652310132980347), ('how long', -0.6494552195072174), ('an elephant', -0.6506330668926239)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+2	2	[('J op lin', -0.9317684471607208)]	['President Bush compared Saddam Hussein to whom ?', 'What is the chemical composition of a Barbie ?']
+1	1	[('in Iceland', -0.7422927916049957)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+2	2	[('FM radio stations', -0.8959051892161369), ('AM radio stations', -0.8966741636395454)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+3	3	[('the U . S', -0.15975713729858398)]	"[""What is Columbia Tristar 's phone number ?"", ""Who wrote ` The Pines of Rome ' ?""]"
+2	2	[('pe y ote', -0.9477738030254841)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('used for', -0.8654784113168716)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('vis cos ity', -0.943496223539114), ('is vis cos ity', -0.9845641534775496)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('become a state', -0.6160614192485809), ('a state', -0.6850605607032776)]	['What book does Holden Caulfield appear in ?', 'Who was the first English circumnavigator of the globe ?']
+0	0	[('for Texas', -0.9430491626262665)]	['What is HTML ?', 'What is DSL ?']
+1	1	[('out of', -0.7635662853717804), ('made out of', -0.7778232395648956)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+4	4	[('the body', -0.8412060588598251), ('on the body', -0.8785935640335083), ('a mortar board', -0.882132463157177), ('a mortar board worn', -0.9245554134249687)]	['What does saliva consist of ?', 'What U.S. state ends with a G ?']
+0	0	[('stand for', -0.9429937340319157)]	['What is DSL ?', 'What is HTML ?']
+4	4	[('is Hitler buried', -0.9145771712064743), ('Where is Hitler buried', -0.9644484408199787)]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+2	2	[('ant ac ids', -0.9294296726584435)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('pulmonary fib', -0.8357149362564087), ('pulmonary fib rosis', -0.9328633844852448), ('is pulmonary fib rosis', -0.9788725450634956)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('nap rox en', -0.9344345331192017)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('stre p throat', -0.9368662983179092), ('is stre p throat', -0.980618754401803)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('the U . S', -0.9446623846888542)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+2	1	[('foot and mouth', -0.917916439473629)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('of a dollar bill', -0.5114819407463074), ('a dollar bill', -0.5951262712478638)]	"[""What country 's royal house is Bourbon-Parma ?"", 'What does the abbreviation cwt. ?']"
+1	1	[('a professional map drawer', -0.7391485869884491)]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+2	2	[('Ab orig ines', -0.9338128417730331)]	['What is the chemical composition of a Barbie ?', 'President Bush compared Saddam Hussein to whom ?']
+2	2	[('hybrid ization', -0.8524595201015472), ('is hybrid ization', -0.9488567598164082), ('What is hybrid ization', -0.9857594883069396)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+1	1	[('ind igo', -0.7578747719526291), ('is ind igo', -0.7584185749292374)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+5	5	[('a car', -0.6372034251689911), ('in Italy', -0.6448926627635956), ('to be', -0.6491212546825409)]	['What botanical marvel did Nebuchadnezzar build ?', 'Who was the first English circumnavigator of the globe ?']
+1	1	[]	"[""What country 's royal house is Bourbon-Parma ?"", ""What does Lloyd 's Lutine Bell announce ?""]"
+1	1	[]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+0	0	[('stand for', -0.9423135928809643)]	['What is DSL ?', 'What is HTML ?']
+5	5	[('go on strike', -0.5833112001419067), ('the NFL', -0.6669672131538391), ('on strike', -0.6734784245491028)]	['Who was the first English circumnavigator of the globe ?', 'What book does Holden Caulfield appear in ?']
+2	2	[('solar wind', -0.8433597981929779), ('is solar wind', -0.9430587962269783), ('What is solar wind', -0.9837715234607458)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('land on the moon', -0.5498843193054199), ('on the moon', -0.617097020149231), ('Neil Armstrong', -0.6884140074253082), ('the moon', -0.6921785771846771)]	"[""What letter does Gorbachev 's middle name start with ?"", 'What book does Holden Caulfield appear in ?']"
+5	5	[('When was Hiroshima bombed', -0.55635204911232), ('was Hiroshima bombed', -0.6169772744178772)]	['What botanical marvel did Nebuchadnezzar build ?', 'Who was the first English circumnavigator of the globe ?']
+4	4	[('the Savannah River', -0.9045704528689384)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+3	3	[('in the Vietnam War', -0.1277943253517151), ('the Vietnam War', -0.2556595206260681)]	"[""Who wrote ` The Pines of Rome ' ?"", ""What is Columbia Tristar 's phone number ?""]"
+4	4	[('all the planets', -0.89450653642416), ('the strongest magnetic field', -0.9295399487018585), ('of all the planets', -0.9480979405343533)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+3	3	[('of Alaska', -0.4723697900772095), ('the governor', -0.476820707321167)]	"[""Who wrote ` The Pines of Rome ' ?"", ""What is Columbia Tristar 's phone number ?""]"
+5	5	[('seize power in Italy', -0.5187715291976929), ('Muss olini', -0.6709490716457367), ('in Italy', -0.6714496612548828)]	['What botanical marvel did Nebuchadnezzar build ?', 'Who was the first English circumnavigator of the globe ?']
+4	4	[('of Persia', -0.7845386415719986), ('the capital', -0.7902824729681015)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+5	5	[('an oct opus', -0.6066780090332031), ('How many', -0.6642603874206543)]	['What botanical marvel did Nebuchadnezzar build ?', 'Who was the first English circumnavigator of the globe ?']
+2	2	[('is pneumonia', -0.8593282699584961), ('What is pneumonia', -0.9518872573971748)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('the US', -0.8015492856502533), ('in the US', -0.8857801556587219)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+2	2	[('a fuel cell', -0.9433350600302219), ('is a fuel cell', -0.9831253457814455)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+3	3	[('to appear on TV', -0.17369729280471802), ('appear on TV', -0.3101615309715271), ('on TV', -0.5023665428161621)]	"['What is DSL ?', ""Who wrote ` The Pines of Rome ' ?""]"
+4	4	[('Little League', -0.8533022552728653)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+1	1	[('of twins', -0.7595735490322113)]	"[""What causes `` rolling thunder '' ?"", ""Where does `` bovine '' come from ?""]"
+4	4	[('the brightest star', -0.8873461559414864), ('is the brightest star', -0.929699070751667)]	"['What U.S. state ends with a G ?', ""Name of King Arthur 's sword ?""]"
+2	2	[('is diabetes', -0.8627505302429199), ('What is diabetes', -0.9521839693188667)]	['What is the chemical composition of a Barbie ?', 'President Bush compared Saddam Hussein to whom ?']
+5	5	[('President Kennedy', -0.682715892791748)]	['What botanical marvel did Nebuchadnezzar build ?', 'Who was the first English circumnavigator of the globe ?']
+0	0	[('TM J', -0.9391024708747864), ('is TM J', -0.9728779830038548), ('What is TM J', -0.9887547679245472)]	['What is DSL ?', 'What is HTML ?']
+1	1	[('yak milk', -0.7877000868320465), ('is yak milk', -0.7938039898872375)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+5	5	[('Dwight D . Eisenhower', -0.5296897888183594)]	"[""What letter does Gorbachev 's middle name start with ?"", ""What is Mark McGwire 's e-mail address ?""]"
+0	0	[('IS DN', -0.9274976179003716)]	['What is DSL ?', 'What is HTML ?']
+2	2	[('the sun', -0.8243670910596848)]	['President Bush compared Saddam Hussein to whom ?', 'What is the chemical composition of a Barbie ?']
+5	5	[('between dollars and pounds', -0.5430140793323517), ('dollars and pounds', -0.6080515086650848)]	"[""What country 's royal house is Bourbon-Parma ?"", 'What does idle mean ?']"
+5	5	[('Abraham Lincoln', -0.6946139931678772)]	"['What botanical marvel did Nebuchadnezzar build ?', ""What letter does Gorbachev 's middle name start with ?""]"
+2	2	[('the Milky Way', -0.9494019709527493), ('is the Milky Way', -0.9843861693516374)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('is mold', -0.8676386028528214), ('What is mold', -0.9549105279147625)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('was Moz art born', -0.521951824426651), ('Moz art', -0.6754170060157776)]	"['What book does Holden Caulfield appear in ?', ""What letter does Gorbachev 's middle name start with ?""]"
+1	1	[('of frogs', -0.7653402239084244), ('a group', -0.772481307387352)]	"[""Where does `` bovine '' come from ?"", ""What army 's motto is Blood and Fire ?""]"
+1	1	"[(""William Penn ' s"", -0.8754485994577408)]"	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+2	5	[('of gold', -0.8674812167882919)]	['What is the chemical composition of a Barbie ?', 'President Bush compared Saddam Hussein to whom ?']
+4	4	[('the White House', -0.8842791020870209), ('of the White House', -0.9383252561092377)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+2	2	[('sem olina', -0.8463441729545593), ('is sem olina', -0.9446608200669289), ('What is sem olina', -0.9842005157843232)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+1	1	[('Mel ba', -0.8302887380123138), ('made from', -0.8373735249042511), ('Mel ba sauce', -0.8735324740409851)]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+2	2	[('a Major', -0.8539150953292847), ('Urs a Major', -0.9410742148756981), ('is Urs a Major', -0.9793446641415358)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('in the human body', -0.4636227488517761), ('the human body', -0.5514312982559204), ('of water content', -0.5710659623146057), ('water content', -0.6649831235408783)]	"[""What country 's royal house is Bourbon-Parma ?"", 'What does the abbreviation cwt. ?']"
+5	5	[('does water weigh', -0.5713912844657898)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+5	5	[('in Windsor , Ontario', -0.5085549056529999), ('Windsor , Ontario', -0.5827371180057526)]	"[""What country 's royal house is Bourbon-Parma ?"", 'What does the abbreviation cwt. ?']"
+3	3	[]	"['What is DSL ?', ""Who wrote ` The Pines of Rome ' ?""]"
+5	5	[('of Australia', -0.6702219247817993), ('the population', -0.6769375801086426)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What is Mark McGwire 's e-mail address ?""]"
+3	3	[('the S istine Chapel', -0.1227073073387146)]	"[""Who played the original Charlie 's Angels ?"", ""Who wrote ` The Pines of Rome ' ?""]"
+1	1	[('a stimul ant', -0.7808103412389755), ('Name a stimul ant', -0.8145419061183929)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+2	2	[('the climate', -0.8367647528648376), ('volcan oes', -0.845456525683403), ('on the climate', -0.9321342632174492), ('of volcan oes', -0.9334569573402405)]	['What is the chemical composition of a Barbie ?', 'President Bush compared Saddam Hussein to whom ?']
+5	5	[('the Andy Griffith show', -0.4839760661125183), ('Andy Griffith', -0.6617826521396637)]	"[""What letter does Gorbachev 's middle name start with ?"", 'What book does Holden Caulfield appear in ?']"
+2	2	[('acid rain', -0.8357912600040436), ('is acid rain', -0.9413452483713627), ('What is acid rain', -0.983713187277317)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	"[(""Mexico ' s independence"", -0.608211487531662), (""Mexico ' s"", -0.6529730260372162)]"	"[""What is Mark McGwire 's e-mail address ?"", ""What letter does Gorbachev 's middle name start with ?""]"
+4	4	[('Lake Cham', -0.8241687715053558), ('Lake Cham plain', -0.9109747260808945), ('of Lake Cham plain', -0.9572053030133247)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+1	1	[]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+1	1	[]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+2	2	[('icks ilver', -0.8510897159576416)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+3	3	[]	"['Who sang about Desmond and Molly Jones ?', ""Who wrote ` The Pines of Rome ' ?""]"
+5	5	[('the speed', -0.7112308144569397), ('of light', -0.711858719587326)]	"[""What country 's royal house is Bourbon-Parma ?"", 'What does idle mean ?']"
+5	5	[('of a football field', -0.49536824226379395), ('a football field', -0.5755318999290466)]	"[""What country 's royal house is Bourbon-Parma ?"", 'Who was the first English circumnavigator of the globe ?']"
+2	2	[('zero points', -0.7957386523485184), ('called love', -0.8045412451028824), ('zero points called love', -0.9593134261667728)]	['President Bush compared Saddam Hussein to whom ?', 'What is the chemical composition of a Barbie ?']
+1	1	[('of Oz', -0.776237279176712), ('the Wizard', -0.7772470116615295), ('T oto', -0.7815164178609848), ('of dog', -0.7911315858364105), ('What kind', -0.7917309105396271)]	"[""What army 's motto is Blood and Fire ?"", ""Where does `` bovine '' come from ?""]"
+2	2	[('a thyroid', -0.8593531399965286), ('is a thyroid', -0.9489828385412693), ('What is a thyroid', -0.9850147189572453)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('c iao', -0.8547160774469376)]	['What does idle mean ?', 'What does pH stand for ?']
+1	1	[('blue blood', -0.8163116872310638), ('the heart', -0.8280941992998123), ('the lungs', -0.8282400667667389), ('to the lungs', -0.836714617908001), ('from the heart', -0.8401350602507591)]	['What novel has Big Brother watching ?', 'What did The Gas House Gang play ?']
+5	5	[('at Yellowstone National Park', -0.4687967300415039), ('Yellowstone National Park', -0.5514188408851624), ('Old Faith ful', -0.5668162703514099), ('Old Faith', -0.6536341905593872)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+2	2	[('ac etic acid', -0.9519050866365433), ('is ac etic acid', -0.9858048241585493)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('St . Louis', -0.5622540414333344)]	"[""What country 's royal house is Bourbon-Parma ?"", 'What does the abbreviation cwt. ?']"
+1	1	[('with a strong acid', -0.6877349615097046), ('a strong acid', -0.6900128424167633), ('lit mus paper', -0.7095469832420349)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+1	1	[('the German flag', -0.7159773707389832), ('of the German flag', -0.7314765453338623)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+2	2	[]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('the Black Sea', -0.8802840933203697)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+5	5	[('of silver', -0.6677096486091614)]	"[""What country 's royal house is Bourbon-Parma ?"", 'What does the abbreviation cwt. ?']"
+1	1	[('use in Brazil', -0.7036318778991699), ('in Brazil', -0.7115916311740875)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+2	2	[('are pathogens', -0.8719724118709564), ('What are pathogens', -0.9560848399996758)]	['What is the chemical composition of a Barbie ?', 'What count did Alexandre Dumas write about ?']
+2	2	[('mad cow', -0.8335720300674438), ('mad cow disease', -0.9307501241564751), ('is mad cow disease', -0.9786197301000357)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+1	1	[('in zinc', -0.7788934409618378), ('high in zinc', -0.8000070750713348)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+5	5	[('enter the union', -0.6320463418960571), ('the union', -0.7062993049621582)]	"['What book does Holden Caulfield appear in ?', ""What letter does Gorbachev 's middle name start with ?""]"
+4	4	[]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+2	2	[('are ethics', -0.8459254950284958), ('What are ethics', -0.9401848241686821)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+0	0	[('stand for', -0.943200409412384)]	['What is DSL ?', 'What is HTML ?']
+2	2	[('an ann uity', -0.9124606475234032), ('is an ann uity', -0.9703535083681345)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+3	3	[]	"[""Who wrote ` The Pines of Rome ' ?"", 'Who sang about Desmond and Molly Jones ?']"
+3	3	[('the U . S', -0.1385258436203003)]	"[""What is Columbia Tristar 's phone number ?"", ""Who wrote ` The Pines of Rome ' ?""]"
+1	1	[('tur qu oise', -0.7319992184638977), ('is tur qu oise', -0.7511135786771774)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+3	3	[('in an automobile', -0.2294660210609436), ('to his inauguration', -0.28903406858444214), ('an automobile', -0.44057101011276245), ('his inauguration', -0.4876934289932251)]	"['What is DSL ?', ""Who wrote ` The Pines of Rome ' ?""]"
+5	5	[('of the United States', -0.47393113374710083), ('the United States', -0.5462477803230286), ('the youngest president', -0.5654996931552887)]	"[""What letter does Gorbachev 's middle name start with ?"", 'Who was the first English circumnavigator of the globe ?']"
+2	2	[]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('a panic disorder', -0.9380845613777637), ('is a panic disorder', -0.9814151506870985)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+3	3	[]	"[""Who played the original Charlie 's Angels ?"", 'What is DSL ?']"
+2	2	[('a carcin ogen', -0.9459023773670197), ('is a carcin ogen', -0.983138918876648)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+1	1	[('a baby lion', -0.8339296877384186)]	"[""What army 's motto is Blood and Fire ?"", ""Where does `` bovine '' come from ?""]"
+5	5	[]	"[""What country 's royal house is Bourbon-Parma ?"", 'How many corners does a spritsail have ?']"
+2	2	[('ne pot', -0.8136718422174454), ('ne pot ism', -0.9189724922180176), ('is ne pot ism', -0.9720494076609612)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('die - casting', -0.9298148602247238), ('is die - casting', -0.9779301658272743)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('my opia', -0.8492003232240677), ('is my opia', -0.945671733468771), ('What is my opia', -0.984190633520484)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('in New York', -0.5433448851108551), ('New York', -0.6448455154895782), ('sales tax', -0.6467388272285461)]	"[""What country 's royal house is Bourbon-Parma ?"", 'What novel has Big Brother watching ?']"
+5	5	"[(""the world ' s"", -0.4285467267036438), ('Develop ing nations', -0.5072842240333557), ('ing nations', -0.6252627074718475), ('what percentage', -0.6445415318012238)]"	"[""What letter does Gorbachev 's middle name start with ?"", 'How many corners does a spritsail have ?']"
+4	4	[('fourth highest', -0.7882378846406937), ('the world', -0.7909380197525024), ('in the world', -0.8770075738430023)]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+3	3	"[(""Shakespeare ' s"", -0.31900638341903687)]"	"[""Who played the original Charlie 's Angels ?"", 'Who sang about Desmond and Molly Jones ?']"
+1	1	[]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+5	5	"[(""Father ' s"", -0.5805993378162384)]"	"['What book does Holden Caulfield appear in ?', ""What letter does Gorbachev 's middle name start with ?""]"
+0	0	[('stand for', -0.9422912038862705), ('NASA stand for', -0.9768508858978748)]	['What is DSL ?', 'What is HTML ?']
+5	5	[('the Columbia River', -0.5684262216091156), ('in miles', -0.6647931337356567)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+4	4	"[('The Star', -0.8037130236625671), (""`` The Star ''"", -0.9404558055102825)]"	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+2	2	[('carbon dioxide', -0.8515107929706573), ('is carbon dioxide', -0.9461774155497551), ('What is carbon dioxide', -0.984544038772583)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('Mason / D', -0.8936979174613953)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+5	5	[]	['Who was the first English circumnavigator of the globe ?', 'What book does Holden Caulfield appear in ?']
+2	2	[('is metabolism', -0.8668830245733261), ('What is metabolism', -0.9548685140907764)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+3	3	[]	"['What is DSL ?', ""Who played the original Charlie 's Angels ?""]"
+1	1	[('made of', -0.808383047580719), ('cigarettes made of', -0.8295632749795914)]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+4	4	[('of Zimbabwe', -0.8085292279720306), ('the capital', -0.8107113540172577)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+0	0	[('stand for', -0.9411363154649734)]	['What is DSL ?', 'What is HTML ?']
+1	1	[('of Michigan', -0.7532723248004913)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+2	2	[('semic onduct ors', -0.9350393265485764)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('nuclear power', -0.8295007050037384), ('is nuclear power', -0.9359617456793785), ('What is nuclear power', -0.981114711612463)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('a tsunami', -0.8593480885028839), ('is a tsunami', -0.9496195577085018), ('What is a tsunami', -0.9854304892942309)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+3	3	[('from state of Texas', -0.11349475383758545), ('the armed forces committee', -0.1334695816040039), ('state of Texas', -0.2355746626853943), ('armed forces', -0.44445139169692993), ('of Texas', -0.4472166895866394)]	"[""Who wrote ` The Pines of Rome ' ?"", ""What is Columbia Tristar 's phone number ?""]"
+3	3	[('was president in 1913', -0.14414334297180176), ('in 1913', -0.4598925709724426)]	"[""What is Columbia Tristar 's phone number ?"", ""Who wrote ` The Pines of Rome ' ?""]"
+5	5	[]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+4	4	[]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+1	1	[('the plane', -0.7789415866136551), ('the Atlantic', -0.7882135212421417), ('Lind ber gh', -0.7980327904224396), ('across the Atlantic', -0.811882495880127), ('of the plane', -0.8214267939329147)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+2	2	[('is genocide', -0.8325138688087463), ('What is genocide', -0.9359375014901161)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('is Argentina on', -0.8953756392002106)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+4	1	[('by Vikings', -0.8331649452447891), ('the late eighth century', -0.952127680182457)]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+2	2	[('an earthquake', -0.8577626049518585), ('is an earthquake', -0.947751447558403), ('What is an earthquake', -0.9846644783392549)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+2	2	[('are enzymes', -0.8627443015575409), ('What are enzymes', -0.9523910805583)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+3	3	[('Who discovered oxygen', -0.2738896608352661), ('discovered oxygen', -0.46318626403808594)]	"[""Who wrote ` The Pines of Rome ' ?"", ""Who played the original Charlie 's Angels ?""]"
+2	2	[]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+3	1	[('at Louisiana State University', -0.22477483749389648), ('to the Tiger', -0.36419910192489624), ('Louisiana State University', -0.36671221256256104), ('the Tiger', -0.5400665998458862), ('Louisiana State', -0.5569884479045868)]	['Who sang about Desmond and Molly Jones ?', 'What is DSL ?']
+4	4	[]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+3	3	[('reach the North Pole', -0.10006648302078247), ('the North Pole', -0.20180374383926392)]	"[""Who wrote ` The Pines of Rome ' ?"", ""What is Columbia Tristar 's phone number ?""]"
+2	2	[]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('vert igo', -0.8593834936618805), ('is vert igo', -0.9497618116438389), ('What is vert igo', -0.9854876361787319)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('spir ometer', -0.8498193025588989)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+5	5	[('of summer', -0.6947290897369385)]	"[""What letter does Gorbachev 's middle name start with ?"", 'How many corners does a spritsail have ?']"
+0	0	[('the abbre viation', -0.9775774776935577)]	['What is HTML ?', 'What is DSL ?']
+1	1	[('in Britain', -0.7902800291776657)]	"[""What army 's motto is Blood and Fire ?"", ""Where does `` bovine '' come from ?""]"
+3	3	[]	"[""Who wrote ` The Pines of Rome ' ?"", 'Who sang about Desmond and Molly Jones ?']"
+1	1	[('the trop osphere', -0.8046215325593948), ('in the trop osphere', -0.8250911682844162)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+4	4	[('the most water pollution', -0.9514905922114849)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+1	1	[('for elephant', -0.8073979616165161)]	"[""Where does `` bovine '' come from ?"", ""What army 's motto is Blood and Fire ?""]"
+3	3	[('her role', -0.4501051902770996), ('Gy psy', -0.46560072898864746), ('the movie', -0.4817875027656555)]	"['What is DSL ?', ""What is Columbia Tristar 's phone number ?""]"
+1	1	[('Beverly Hill', -0.7782629579305649), ('hunting dog', -0.7857355922460556), ('of hunting dog', -0.8251678645610809)]	"[""What army 's motto is Blood and Fire ?"", ""Where does `` bovine '' come from ?""]"
+4	4	[('on Earth', -0.8002853244543076)]	['What U.S. state ends with a G ?', 'What molecules include fluorine , sodium and magnesium ?']
+3	3	[('the Nobel Prize', -0.253592848777771), ('in literature', -0.4703547954559326)]	"[""Who wrote ` The Pines of Rome ' ?"", 'Who sang about Desmond and Molly Jones ?']"
+1	1	[]	"[""Where does `` bovine '' come from ?"", ""What army 's motto is Blood and Fire ?""]"
+1	1	[('to be mixed', -0.7473990321159363), ('be mixed', -0.7537000775337219), ('the color', -0.7609539180994034), ('the color pink', -0.7624669969081879), ('get the color pink', -0.7707756906747818)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+1	1	[('in Japan', -0.7441821694374084), ('most popular', -0.7527740597724915)]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+1	1	[('in baking soda', -0.7388231158256531), ('baking soda', -0.7416373789310455)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+5	5	[('Thomas Jefferson', -0.6904772818088531)]	"[""What letter does Gorbachev 's middle name start with ?"", 'What botanical marvel did Nebuchadnezzar build ?']"
+5	5	[('should a refrigerator be', -0.4537873864173889), ('a refrigerator', -0.651297003030777)]	['What botanical marvel did Nebuchadnezzar build ?', 'Who was the first English circumnavigator of the globe ?']
+5	5	[('the telephone', -0.6807952225208282)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+1	1	[]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+4	4	[('the United States', -0.9103641659021378), ('in the United States', -0.9570255167782307)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+2	2	[('is schizophrenia', -0.8558473289012909), ('What is schizophrenia', -0.9492400176823139)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+1	3	[('Jesse Jackson', -0.7353844940662384)]	"[""What does Lloyd 's Lutine Bell announce ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+1	1	[]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+2	4	[('in Utah', -0.8214581459760666)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('kill Mountains', -0.7958364337682724), ('the Cats', -0.8029635548591614), ('which state', -0.8175402283668518), ('the Cats kill Mountains', -0.9398121424019337)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+1	1	[]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+2	2	[('pediatric ians', -0.8399477154016495), ('are pediatric ians', -0.9397775642573833), ('What are pediatric ians', -0.9820752386003733)]	['What is the chemical composition of a Barbie ?', 'President Bush compared Saddam Hussein to whom ?']
+3	3	[('on ville , Arkansas', -0.15951144695281982), ('ville , Arkansas', -0.2849445343017578)]	['What is DSL ?', 'What did The Gas House Gang play ?']
+2	2	[('solar cells', -0.8405437022447586), ('are solar cells', -0.9440312348306179), ('What are solar cells', -0.9845232414081693)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('compounded interest', -0.8251052349805832), ('is compounded interest', -0.9353974089026451), ('What is compounded interest', -0.9808837715536356)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('cap ers', -0.8472453206777573), ('What are cap ers', -0.9822555873543024)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('an antigen', -0.85172538459301), ('is an antigen', -0.9461214691400528), ('What is an antigen', -0.9842515550553799)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+1	1	[('does Luxembourg use', -0.7005497217178345)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+5	5	[('of Venezuela', -0.668104737997055), ('the population', -0.6792497038841248)]	"[""What country 's royal house is Bourbon-Parma ?"", 'What does the abbreviation cwt. ?']"
+1	1	[('bullet proof', -0.7283243834972382), ('of polymer', -0.7490879893302917), ('What type', -0.7563744932413101), ('bullet proof v ests', -0.7628313601016998)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+1	1	[('does Argentina use', -0.6761142313480377)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+2	2	[('a therm ometer', -0.9524060450494289), ('is a therm ometer', -0.9857031060382724)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('the largest population', -0.8812582567334175), ('has the largest population', -0.9409068077802658)]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+1	1	[('cr ickets', -0.7831999957561493), ('are cr ickets', -0.784343346953392)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+4	4	[('of Liberty', -0.8341535925865173), ('the Statue', -0.8351349532604218), ('New York', -0.8448341190814972), ('the Statue of Liberty', -0.9540142081677914)]	['What U.S. state ends with a G ?', 'What two states is Washington D.C. between ?']
+1	1	[('into space', -0.7647736072540283), ('sent into space', -0.7876701951026917)]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+1	1	[('pure carbon', -0.7611743807792664), ('a form', -0.7734913527965546), ('of pure carbon', -0.7831095606088638)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+1	1	[('a fluorescent bulb', -0.6891721189022064), ('in a fluorescent bulb', -0.7098085284233093), ('of gas', -0.740476667881012), ('What kind', -0.7467339634895325)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+4	4	[('Rowe , Italy', -0.8985914438962936), ('through Rowe , Italy', -0.9521040618419647)]	['What molecules include fluorine , sodium and magnesium ?', 'What U.S. state ends with a G ?']
+2	2	[('cerebral pals y', -0.9394059665501118)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+4	4	[('The Gateway', -0.8107819706201553), ('the West', -0.8113453239202499), ('to the West', -0.8985952213406563)]	"['What U.S. state ends with a G ?', ""What is New England 's highest mountain ?""]"
+5	5	[('is the moon', -0.5587897896766663), ('the moon', -0.6590303480625153)]	['Who was the first English circumnavigator of the globe ?', 'What botanical marvel did Nebuchadnezzar build ?']
+1	1	[('natural gas', -0.814235046505928), ('of natural gas', -0.8409854471683502)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+1	1	[('what spacecraft', -0.7851863205432892), ('his historic 1961 flight', -0.855996310710907)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+2	2	[('p ect', -0.850633904337883)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+2	2	[('bio - d', -0.9370410218834877)]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
+1	1	[('remove wallpaper', -0.7335901260375977), ('to remove wallpaper', -0.7361970543861389)]	"[""What army 's motto is Blood and Fire ?"", ""What country 's royal house is Bourbon-Parma ?""]"
+5	5	[('start on its journey', -0.5420543551445007), ('on its journey', -0.6085219383239746), ('the Titanic', -0.6851175427436829), ('its journey', -0.6861385107040405)]	"['Who was the first English circumnavigator of the globe ?', ""What letter does Gorbachev 's middle name start with ?""]"
+5	5	[('of an apple', -0.5717012286186218), ('an apple', -0.6573888659477234), ('is water', -0.6660439074039459)]	"['How many corners does a spritsail have ?', ""What Good Little Witch is Casper 's girlfriend ?""]"
+3	3	[('of the US', -0.27965474128723145), ('the US', -0.4796239733695984)]	"['What is DSL ?', ""Who wrote ` The Pines of Rome ' ?""]"
+1	1	[('in Zamb ia', -0.7019324004650116), ('use in Zamb ia', -0.7072481513023376), ('Zamb ia', -0.7198370099067688)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+5	5	[('in a mile', -0.566175788640976), ('a mile', -0.6552532315254211), ('How many', -0.6580498218536377)]	['Who was the first English circumnavigator of the globe ?', 'How many corners does a spritsail have ?']
+1	1	[('of October', -0.7275031507015228)]	"[""What country 's royal house is Bourbon-Parma ?"", ""What army 's motto is Blood and Fire ?""]"
+2	2	[]	['What is the chemical composition of a Barbie ?', 'What does idle mean ?']
