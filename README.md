@@ -23,7 +23,7 @@
 
 ---
 
-## 📊 Datasets
+## Datasets
 
 - **SST** – Sentiment classification  
 - **TREC** – Question classification  
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Key Results
+## Key Results
 
 - Achieved **97.5% accuracy on TREC** using **XLM-R + LoRa**, with **top-5 phrase-level explanations**
 - Phrase-level rationales successfully highlight key decision-driving tokens
